@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: 社会心理学 修士号
+  - course: 社会心理学 修士2年
     institution: 東京大学
-    year: 2020(予定)
+    year: 現在
   - course: 商学部
     institution: 一橋大学
     year: 2018
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tham09@outlook.jp'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tham09@outlook.jp'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
