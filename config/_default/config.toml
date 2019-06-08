@@ -16,7 +16,7 @@ baseurl = "https://wonderful-mcclintock-624b91.netlify.com/"
 copyright = "&copy; 2019 Yukari Jessica Tham"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-141725077-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
