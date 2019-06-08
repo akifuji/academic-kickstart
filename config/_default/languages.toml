@@ -21,4 +21,5 @@
 
 [ja]
   languageCode = "ja"
+  contentDir = "content/ja"
   
