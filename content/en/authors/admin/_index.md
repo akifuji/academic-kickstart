@@ -14,8 +14,8 @@ role: 2nd year of a Master's degree in social psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Graduate School of Humanities and Sociology, University of Tokyo
-  url: ""
+- name: KARASAWA Kaori Lab. Graduate School of Humanities and Sociology, University of Tokyo 
+  url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/en/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,9 +45,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
