@@ -14,8 +14,8 @@ role: 社会心理学 修士2年
 
 # Organizations/Affiliations
 organizations:
-- name: 東京大学 大学院人文社会系研究科 
-  url: ""
+- name: 東京大学 人文社会系研究科 唐沢かおり研究室
+  url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,9 +45,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
