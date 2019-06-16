@@ -3,7 +3,7 @@
 
 title: "犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――"
 authors: [ターン有加里ジェシカ、村田光二、唐沢かおり]
-date: 2018-09-10
+date: 2018-12-01
 doi: "10.4189/shes.16.77"
 
 # Schedule page publish date (NOT publication's date).

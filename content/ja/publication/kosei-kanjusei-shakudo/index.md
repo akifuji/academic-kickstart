@@ -3,7 +3,7 @@
 
 title: "公正感受性尺度日本語版(JSI-J)の作成"
 authors: [ターン有加里ジェシカ、橋本剛明、Manfred Schmitt、唐沢かおり]
-date: 2018-12-01
+date: 2019-12-01
 doi:
 
 # Schedule page publish date (NOT publication's date).

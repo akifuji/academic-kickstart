@@ -18,3 +18,4 @@ autolink = true
 email_form = 2
 +++
 
+住所および電話番号は唐沢かおり研究室のものです

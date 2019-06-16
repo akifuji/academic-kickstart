@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "日本社会心理学会"
+  organization = "The Japanese Society of Social Psychology"
   organization_url = "http://www.socialpsychology.jp/index.html"
-  title = "日本社会心理学会 2018 年度若手研究者奨励賞"
+  title = "Young Researcher's Scholarship Award"
   url = ""
   certificate_url = "http://www.socialpsychology.jp/award/wakate_2018_2.html"
   date_start = "2018-12-01"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "The International Academic Forum (IAFOR)"
   organization_url = "https://iafor.org/"
-  title = "「The International Academic Forum Scholarship 2019」受賞"
+  title = "The International Academic Forum Scholarship 2019"
   url = ""
   certificate_url = ""
   date_start = "2018-12-01"

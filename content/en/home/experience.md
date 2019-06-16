@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "社会心理学 修士課程"
-  company = "東京大学"
+  title = "Department of Social Psychology, Graduate School of Humanities and Sociology"
+  company = "The University of Tokyo"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2018-04-01"
@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "交換留学"
-  company = "ブリティッシュ・コロンビア大学"
+  title = "Exchange Student"
+  company = "The University of British Columbia"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2016-09-01"
@@ -37,12 +37,12 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "商学部 卒業"
-  company = "一橋大学"
+  title = "Faculty of Commerce and Management"
+  company = "Hitotsubashi University"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2014-04-01"
   date_end = "2018-03-10"
-  description = """成績優秀者として一橋大学商学部を卒業"""
+  description = """"""
 
 +++

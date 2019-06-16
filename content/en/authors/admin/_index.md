@@ -24,15 +24,16 @@ interests:
 - justice
 - fairness
 - social dilemma
+- Volunteer's dilemma
 
 education:
   courses:
-  - course: 社会心理学 修士2年
-    institution: 東京大学
-    year: 現在
-  - course: 商学部
-    institution: 一橋大学
-    year: 2018
+  - course: Department of Social Psychology, Graduate School of Humanities and Sociology
+    institution: The University of Tokyo
+    year: Apr 2018 - Today
+  - course: Faculty of Commerce and Management
+    institution: Hitotsubashi University
+    year: Apr 2014 - Mar 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tham09@outlook.jp'  # For a direct email link, use "mailto:test@example.org".
+- icon: map
+  icon_pack: fas
+  link: https://researchmap.jp/tham/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
