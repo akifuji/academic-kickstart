@@ -10,30 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: 社会心理学 修士2年
+role: 社会心理学研究室 修士課程2年
 
 # Organizations/Affiliations
 organizations:
-- name: 東京大学 人文社会系研究科 唐沢かおり研究室
+- name: 東京大学大学院 人文社会系研究科 唐沢かおり研究室
   url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- justice
-- fairness
-- social dilemma
-- Volunteer's dilemma
+- 公平感
+- 社会的ジレンマ
 
 education:
   courses:
-  - course: 社会心理学 修士2年
+  - course: 人文社会系研究科(社会文化研究専攻) 修士課程
     institution: 東京大学
-    year: Apr 2018 - 現在
-  - course: 商学部
+    year: 2018年4月 - 2020年3月(修了予定)
+  - course: 商学部 経営学科
     institution: 一橋大学
-    year: Apr 2014 - Mar 2018
+    year: 2014年4月 - 2018年3月
 
 
 # Social/Academic Networking
