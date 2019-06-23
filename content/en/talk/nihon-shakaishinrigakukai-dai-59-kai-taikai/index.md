@@ -17,7 +17,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-06-02T17:30:03+09:00
 
-authors: [ターン有加里ジェシカ、村田光二、唐沢かおり]
+authors: [ターン有加里ジェシカ・村田光二・唐沢かおり]
 tags: []
 
 # Is this a featured talk? (true/false)
