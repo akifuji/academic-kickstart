@@ -1,6 +1,7 @@
 ---
 # Display name
-name: ターン 有加里ジェシカ
+name: "ターン
+有加里ジェシカ"
 
 # Username (this should match the folder name)
 authors:
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tham09@outlook.jp'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
 - icon: map
   icon_pack: fas
   link: https://researchmap.jp/tham/

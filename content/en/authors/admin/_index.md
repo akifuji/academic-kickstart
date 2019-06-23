@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tham Yukari Jessica
+name: Yukari Jessica Tham
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: 2nd year of a Master's degree in social psychology 
+role: Graduate student in social psychology 
 
 # Organizations/Affiliations
 organizations:
-- name: KARASAWA Kaori Lab. Graduate School of Humanities and Sociology, University of Tokyo 
-  url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/en/index.html"
+- name: The Graduate School of Humanities and Sociology at the University of Tokyo, Japan.
+  url: "http://www.utokyo-socpsy.com/index-e.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social dilemma (especially volunteer's dilemma) and a sense of fairness.
 
 interests:
-- justice
-- fairness
 - social dilemma
-- Volunteer's dilemma
+- fairness
 
 education:
   courses:
-  - course: Department of Social Psychology, Graduate School of Humanities and Sociology
+  - course: Master's degree in social psychology
     institution: The University of Tokyo
-    year: Apr 2018 - Today
-  - course: Faculty of Commerce and Management
+    year: Present
+  - course: Bachelor’s degree in commerce
     institution: Hitotsubashi University
-    year: Apr 2014 - Mar 2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,16 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tham09@outlook.jp'  # For a direct email link, use "mailto:test@example.org".
-- icon: map
-  icon_pack: fas
-  link: https://researchmap.jp/tham/
+  link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen

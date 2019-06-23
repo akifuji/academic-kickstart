@@ -15,7 +15,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 
-住所および電話番号は唐沢かおり研究室のものです
+住所および電話番号は東京大学大学院社会心理学研究室のものです
