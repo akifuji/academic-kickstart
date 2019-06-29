@@ -17,5 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-
-#住所および電話番号は東京大学大学院社会心理学研究室のものです

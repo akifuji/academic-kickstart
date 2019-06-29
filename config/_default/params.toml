@@ -51,8 +51,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tham09@l.u-tokyo.ac.jp"
-phone = "03-5841-3870"
-address = "〒113-0033 東京都文京区本郷7-3-1 (7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033 JAPAN)"
+# phone = "03-5841-3870"
+# address = "〒113-0033 東京都文京区本郷7-3-1 (7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033 JAPAN)"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
