@@ -41,12 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: map
+  icon_pack: fas
+  link: https://researchmap.jp/tham/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
