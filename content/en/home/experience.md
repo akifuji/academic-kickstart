@@ -28,12 +28,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Exchange Student"
+  title = "Exchange Program"
   company = "The University of British Columbia"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2016-09-01"
-  date_end = "2017-05-15"
+  date_end = "2017-04-30"
   description = """"""
 
 [[experience]]

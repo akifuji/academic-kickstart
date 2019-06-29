@@ -43,7 +43,7 @@ social:
   link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
 - icon: map
   icon_pack: fas
-  link: https://researchmap.jp/tham/
+  link: https://researchmap.jp/tham/?lang=english
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-公正感が日常においてどのような役割を果たしているのかに関心があります。特にボランティアのジレンマ（誰か1人がボランティアのコストを負担すれば集団全体が利益を受けるが、誰も負担しなければ集団全体が損失を被る状況）における公正感の役割を、実験などを通して検討しています。
+I am studying the role of fairness in social dilemma as a graduate student at the University of Tokyo. Due to my experiences studying commerce as an undergraduate student at Hitotsubashi University, as well as studying psychology as an exchange student at the University of British Columbia, Canada, I have developed an interest in justice and fairness; game theory and social dilemma; and organizational citizenship behavior.
