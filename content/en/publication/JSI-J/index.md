@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J)"
-authors: [Yukari Jessica Tham, Takaaki Hashimoto, Manfred Schmitt, Kaori Karasawa]
+authors: [Yukari Jessica Tham, Takaaki Hashimoto, Manfred Schmitt, and Kaori Karasawa]
 date: 2019-12-01
 doi:
 
@@ -16,10 +16,10 @@ publishDate: 2019-06-16
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Japanese Psychological Research 90(5) in press Dec 2019 "
+publication: "Japanese Psychological Research 90(5) in press"
 publication_short: "Japanese Psychological Research"
 
-abstract: "公正・不公正に対する感受性――不公正な出来事に対して怒りや罪悪感などの感情を覚える程度やそれについて反芻する程度――には個人差がある。公正感受性尺度（Schmitt et al., 2010）は，これを測定するために開発された尺度であり，その特徴は被害者，第3者，受益者，加害者という4つの立場を区別する点にある。つまり公正感受性尺度は，不公正な出来事によって損失を受けることに対する感受性，不公正な出来事を第三者として知ることに対する感受性，不公正な出来事から受動的に利益を得ることに対する感受性，不公正な出来事を能動的に引き起こすことに対する感受性という4つの下位次元概念を分けて測定する。各下位次元概念は，協力行動をはじめとする様々な行動や心身の健康に対してそれぞれ異なる影響を持つことが明らかにされてきた。この尺度はこれまで，英語，ドイツ語，中国語を含む多くの言語で用いられてきたが，日本語版はまだ作成されていない。そこで本研究は，公正感受性尺度日本語版およびその短縮版を作成し，それらの信頼性と妥当性を検討した。信頼性と妥当性は概ね確認されたが，数項目に関しては予測されていなかった結果が得られた。本論ではこの尺度の有効な使い方について議論する。"
+abstract: "People differ in how sensitive they are to justice or injustice, or how easily they feel justice-related emotions such as anger and guilt, and ruminate on it. This individual difference can be measured by the Justice Sensitivity Inventory (JSI; Schmitt et al., 2010), being divided into four components: Sensitivity to becoming a victim of injustice, sensitivity to observing injustice, sensitivity to passively benefiting from injustice, and sensitivity to actively committing injustice. Each sensitivity has a different effect on various aspects of human behavior (e.g., cooperation) as well as mental and physical health. JSI is available in German, English, Chinese and many other languages, but not in Japanese. This study (n = 453) aimed to develop a Japanese version of JSI (JSI-J) and a short version of it, examining their reliability and validity. They were confirmed to be reliable and valid except for some items. An effective usage of JSI-J and its short version will be discussed."
 
 
 # Summary. An optional shortened abstract.

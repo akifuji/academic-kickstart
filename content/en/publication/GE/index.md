@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Because of the “bad blood”?: Genetic essentialism and associative stigma of an ex-convict’s children"
-authors: [Yukari Jessica Tham, Koji Murata, Kaori Karasawa]
+authors: [Yukari Jessica Tham, Koji Murata, and Kaori Karasawa]
 date: 2018-12-01
 doi: "10.4189/shes.16.77"
 

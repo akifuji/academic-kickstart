@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "日本グループ・ダイナミックス学会"
+  organization = "The Japanese Group Dynamics Association"
   organization_url = "http://www.groupdynamics.gr.jp/"
-  title = "「日本グループ・ダイナミックス学会 2018 年度国際学会発表支援制度」採用"
+  title = "Travel Grant for International Conferences 2018"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"

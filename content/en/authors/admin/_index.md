@@ -21,14 +21,14 @@ organizations:
 bio: My research interests include social dilemma (especially volunteer's dilemma) and a sense of fairness.
 
 interests:
-- social dilemma
-- fairness
+- Social dilemma
+- Fairness
 
 education:
   courses:
   - course: Master's degree in social psychology
     institution: The University of Tokyo
-    year: Present
+    year: 
   - course: Bachelor’s degree in commerce
     institution: Hitotsubashi University
     year: 2018
@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-play
+- icon: map
   icon_pack: fas
   link: https://researchmap.jp/tham/?lang=english
 # - icon: github
