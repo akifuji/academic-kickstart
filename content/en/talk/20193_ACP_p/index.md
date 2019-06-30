@@ -11,11 +11,11 @@ abstract: "Background: People differ in how sensitive they are to injustice. It 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-03-21
-date_end: 
-all_day: false
+date_end:
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-06-23T17:11:16+09:00
+publishDate: 2019-06-02T17:30:03+09:00
 
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, Manfred Schmitt, and Kaori Karasawa]
 tags: []

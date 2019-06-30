@@ -1,7 +1,6 @@
 ---
 # Display name
-name: "ターン
-有加里ジェシカ"
+name: "ターン 有加里ジェシカ"
 
 # Username (this should match the folder name)
 authors:

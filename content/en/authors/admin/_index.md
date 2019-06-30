@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
-- icon: map
+- icon: play
   icon_pack: fas
   link: https://researchmap.jp/tham/?lang=english
 # - icon: github

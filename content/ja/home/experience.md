@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "商学部 経営学科 卒業"
+  title = "商学部 経営学科"
   company = "一橋大学"
   company_url = ""
   location = "Tokyo, Japan"
