@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The 20th Annual Meeting of the Society for Personality and Social Psychology"
-event: The 20th Annual Meeting of the Society for Personality and Social Psychology
+title: "Egoistic Motives of Concerning Injustice for Others: Justice Sensitivity and Self-Consciousness"
+# event: The 20th Annual Meeting of the Society for Personality and Social Psychology
 # event_url: "http://meeting.spsp.org/2019/"
-location: Portland, USA
+location: The 20th Annual Meeting of the Society for Personality and Social Psychology (Portland, USA)
 summary: Poster presentation
 abstract: "Although the literature of justice sensitivity (JS) sees sensitivity to committing injustice (vs. sensitivity to becoming a victim) as a pure justice concern, we expect that it contains egoistic motives such as moral identity and reputation concerns. We examine its correlation with self-consciousness (private & public) through a questionnaire survey, developing a Japanese version of JS Inventory."
 

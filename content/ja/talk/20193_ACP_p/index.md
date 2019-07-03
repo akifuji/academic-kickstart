@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The 9th Asian Conference on Psychology & the Behavioral Sciences"
-event: The 9th Asian Conference on Psychology & the Behavioral Sciences
+title: "Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J)"
+# event: The 9th Asian Conference on Psychology & the Behavioral Sciences
 # event_url: "https://acp.iafor.org/acp2019/"
-location: Tokyo, Japan
+location: Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J) (Tokyo, Japan)
 summary: ポスター発表
 abstract: "Background: People differ in how sensitive they are to injustice. It can be measured by the Justice Sensitivity Inventory (JSI; Schmitt et al., 2010) by being divided into four components: Sensitivity to becoming a victim of injustice, sensitivity to observing injustice, sensitivity to passively benefiting from injustice, and sensitivity to actively committing injustice. Each sensitivity has different effects on various aspects of human behavior (e.g., prosocial behavior, antisocial behavior, and happiness). JSI is available in German, English, Chinese and more other languages, but not in Japanese. Purpose: This study (n=265) aimed to develop a Japanese version of JSI and to examine the validity and reliability of it. Results: The reliability of the subscales was high enough (α=.86, .90, .86, .88, respectively). The validity of the subscales was examined by calculating the correlation coefficients with the predicted related variables, such as five personality factors and Belief in Just World, and it was confirmed to be high. Conclusion: The Japanese version of JSI was confirmed to be valid and reliable. This would provide a scaffolding for studies on human behavior related to justice sensitivity in Japan. In addition, given the variety of languages available for JSI, this would allow us to conduct a cross-cultural analysis of justice sensitivity with Japanese people."
 
