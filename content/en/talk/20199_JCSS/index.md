@@ -6,7 +6,7 @@ title: "Implicit and Explicit Attitudes toward Blood Ties"
 # event_url: 
 location: The 36th Annual Meeting of Japanese Cognitive Science Society (Shizuoka, Japan)
 summary: Oral presentation
-abstract: "The present study showed that implicit attitudes and explicit attitudes toward blood ties can be inconsistent. When we measured participants' explicit attitudes toward blood ties, they showed a belief that blood ties' effect is not strong enough to determine people's personality or future. However, when we conducted a scenario-based experiment one month later, participants who read a scenario about an exconvict's biological son showed more negative attitudes toward the protagonist than those who read a scenario about an exconvict's adopted son. This result implies that while people deemphasize or even deny an effect of blood ties as an explicit attitude, they may place a significance on the effect as an implicit attitudes."
+abstract: "The present study showed that implicit attitudes and explicit attitudes toward blood ties can be inconsistent. When we measured participants' explicit attitudes toward blood ties, they showed a belief that blood ties' effect is not strong enough to determine people's personality or future. However, when we conducted a scenario-based experiment one month later, participants who read a scenario about an exconvict's biological son showed more negative attitudes toward the protagonist than those who read a scenario about an exconvict's adopted son. This result implies that while people deemphasize or even deny an effect of blood ties as an explicit attitude, they may place significance on the effect as an implicit attitude."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
