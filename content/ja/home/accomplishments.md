@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "日本心理学会"
   # organization_url = 
-  title = "2019年度国際会議等参加旅費補助金制度採用"
+  title = "日本心理学会 2019年度国際会議等参加旅費補助金制度 採用"
   # url = 
   certificate_url = ""
   date_start = "2019-07-01"
