@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "日本心理学会"
+  # organization_url = 
+  title = "2019年度国際会議等参加旅費補助金制度採用"
+  # url = 
+  certificate_url = ""
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "日本社会心理学会"
   # organization_url = "http://www.socialpsychology.jp/index.html"
   title = "日本社会心理学会 2018年度若手研究者奨励賞 受賞"
