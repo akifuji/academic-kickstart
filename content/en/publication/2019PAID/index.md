@@ -4,7 +4,7 @@
 title: "The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
 # date: 2019-12-01
-# doi: ""
+doi: "https://doi.org/10.1016/j.paid.2019.07.011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-07-01
@@ -16,7 +16,7 @@ publishDate: 2019-07-01
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Personality and Individual Differences in press "
+publication: "Journal of Personality and Individual Differences, 151 (in press)"
 publication_short: "Journal of Personality and Individual Differences"
 
 abstract: "We frequently face situations where only one person in a group is required to incur a cost to solve a problem for the entire group; if someone volunteers, everyone benefits, but if nobody does, everyone pays a cost greater than the cost of volunteering. This is known as the volunteer’s dilemma (VoD). In the VoD, some are likely to volunteer, while others are not. Through a scenario-based experiment, we found that individuals’ willingness to volunteer is substantially predicted by their justice sensitivity (JS), indicated by individual differences in reactions toward unfairness or injustice. Specifically, those who are sensitive to unjustly suffering an unfavorable outcome (high in JSVictim) are less willing to volunteer, and those who are sensitive to unjustly receiving a favorable outcome (high in JSBeneficiary) are more willing to volunteer. We also investigated the effects of justice-related emotions and found that anger at the expectation of being the only volunteer in the group mediates the negative effect of JSVictim on willingness to volunteer, while guilt at the expectation of letting somebody else volunteer is not a robust mediator of the positive effect of JSBeneficiary on willingness to volunteer."
