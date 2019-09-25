@@ -3,8 +3,8 @@
 
 title: "The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
-# date: 2019-12-01
-doi: "https://doi.org/10.1016/j.paid.2019.07.011"
+date: 2019-12-01
+doi: "10.1016/j.paid.2019.07.011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-07-01

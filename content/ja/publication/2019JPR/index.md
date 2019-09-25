@@ -4,7 +4,7 @@
 title: "公正感受性尺度日本語版(JSI-J)の作成"
 authors: [ターン有加里ジェシカ・橋本剛明・Manfred Schmitt・唐沢かおり]
 date: 2019-12-01
-doi:
+doi: "10.4992/jjpsy.90.18234"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-16
@@ -37,13 +37,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.jstage.jst.go.jp/article/jjpsy/advpub/0/advpub_90.18234/_pdf/-char/ja
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://psych.or.jp/publication/journal90-5/#18234
+url_source:
 url_video:
 
 # Featured image

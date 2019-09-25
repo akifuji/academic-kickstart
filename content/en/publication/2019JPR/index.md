@@ -4,7 +4,7 @@
 title: "Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J)"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, Manfred Schmitt, and Kaori Karasawa]
 date: 2019-12-01
-doi:
+doi: "10.4992/jjpsy.90.18234"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-16
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.jstage.jst.go.jp/article/jjpsy/advpub/0/advpub_90.18234/_pdf/-char/ja
 url_code:
 url_dataset:
 url_poster:
