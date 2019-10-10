@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Faculty of Commerce and Management"
+  title = "Department of Commerce and Management"
   company = "Hitotsubashi University"
   company_url = ""
   location = "Tokyo, Japan"
