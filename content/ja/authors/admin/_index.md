@@ -22,7 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - 公平感
-- 社会的ジレンマ
+- 向社会的行動
+
 
 education:
   courses:

@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include social dilemma (especially volunteer's dilemma) and a sense of fairness.
 
 interests:
-- Social dilemma
 - Fairness
+- Prosociality
+- Cooperation
 
 education:
   courses:
