@@ -65,4 +65,3 @@ user_groups:
 ---
 
 Welcome! I am a second year graduate student majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemma. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.
-# Due to my experiences studying commerce as an undergraduate student at Hitotsubashi University, as well as studying psychology as an exchange student at the University of British Columbia, Canada, I have developed an interest in justice and fairness; cooperation and prosociality; and organizational citizenship behavior.
