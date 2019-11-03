@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,3 +67,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2019). Individual differences of willingness to volunteer in a volunteer’s dilemma: The positive and negative effects of justice sensitivity. Talk presented at the 60th Annual Meeting of the Japanese Society of Social Psychology. Tokyo, Japan.
+
+Tham, Y. J., Murata, K., and Karasawa, K. (September, 2019). Implicit and Explicit Attitudes toward Blood Ties. Talk presented at the 36th Annual Meeting of Japanese Cognitive Science Society. Hamamatsu, Japan.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (July, 2019). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Poster presented at the 13th biennial Asian Association of Social Psychology. Taipei, Taiwan.
+
+Tham, Y. J., Hashimoto, T., Shiraiwa, Y., and Karasawa, K. (March, 2019). Who “volunteers”? The effect of justice sensitivity in a volunteer’s dilemma at a university dorm. Talk presented at the 9th Asian Conference on Psychology & the Behavioral Sciences. Tokyo, Japan.
+
+Tham, Y. J., Hashimoto, T., Schmitt, M., and Karasawa, K. (March, 2019). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). Poster presented at the 9th Asian Conference on Psychology & the Behavioral Sciences. Tokyo, Japan.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2019). Egoistic Motives of Concerning Injustice for Others: Justice Sensitivity and Self-Consciousness. Poster presented at the 20th Annual Meeting of the Society for Personality and Social Psychology. Portland, OR, USA.
+
+Tham, Y. J., Murata, K., & Karasawa, K. Because of the “bad blood”? Genetic essentialism and associative stigma of an ex-convict’s children. (August, 2018). Poster presented at the 59th Annual Meeting of the Japanese Society of Social Psychology. Osaka, Japan.

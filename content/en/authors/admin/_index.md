@@ -18,7 +18,7 @@ organizations:
   url: "http://www.utokyo-socpsy.com/index-e.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social dilemma (especially volunteer's dilemma) and a sense of fairness.
+bio: My research interests include social dilemmas (especially the volunteer's dilemma) and a sense of fairness.
 
 interests:
 - Fairness
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a second year graduate student majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemma. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.
+Welcome! I am a second year graduate student majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemmas. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.

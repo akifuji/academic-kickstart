@@ -16,8 +16,8 @@ publishDate: 2018-09-10
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "人間環境学研究会『人間環境学研究』第16巻2号 pp.77-82"
-publication_short: "『人間環境学研究』"
+publication: "『人間環境学研究』第16巻2号 pp.77-82"
+publication_short: "『人間環境学研究』第16巻2号 pp.77-82"
 
 abstract: "There are a considerable number of cases reported that an ex-convict’s children are negatively perceived even though they themselves have not committed a crime. However, there are few quantitative researches and reasons for the negative perception have not been discussed well. This study hypothesized that the negative perception is associative stigma, and a reason for the stigma is genetic es-sentialism. Associative stigma is the tendency to being stigmatized or devalued based on his or her association with a stigmatized per-son. Genetic essentialism is the tendency to ascribe genes as a fixed and underlying nature to members of a category. An experiment was conducted, where all the participants were shown two separated vignettes of a middle-aged man who was a murderer, and of a boy who slapped his classmate. Also, the participants were given a minimum amount of information about the relationships between the two protagonists; they were randomly divided into three conditions, Child-by-blood condition (CBB), Child-by-adoption condi-tion (CBA), and Unrelated condition (URL). If the hypothesis is supported, the boy would be perceived negatively most by CBB and least by URL. The results showed that while the boy was perceived more negatively by CBB than by URL when the perception of the middle-aged man, the murderer, was controlled, there was no such difference between CBA and URL. Although there was no differ-ence between CBB and CBA, which contradicts with the hypothesis that genetic essentialism is a reason for the stigma, considering that there was a significant difference only between CBB and URL and not between CBA and URL, there is the possibility of the ex-istence of genetic essentialism."
 
