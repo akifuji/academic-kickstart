@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,3 +67,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年11月). ボランティアのジレンマにおける公正感受性の正の影響と負の影響 「誰かがやらなければいけない」状況での行動意思の個人差. 日本社会心理学会 第60回大会 口頭発表 (O1801). 東京.
+
+ターン有加里ジェシカ・村田光二・唐沢かおり (2019年9月). 血縁関係に対する潜在的態度と顕在的態度. 日本認知科学会 第36回大会 口頭発表 (OS02-3). 浜松.
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年7月). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Asian Association of Social Psychology 第13回大会 ポスター発表 (Day2 #45). 台湾 台北.
+
+ターン有加里ジェシカ・橋本剛明・白岩祐子・唐沢かおり (2019年3月). Who “volunteers”? The effect of justice sensitivity in a volunteer’s dilemma at a university dorm. The International Academic Forum 第9回 Asian Conference on Psychology & the Behavioral Sciences 口頭発表 (45973). 東京.
+
+ターン有加里ジェシカ・橋本剛明・Schmitt Manfred・唐沢かおり (2019年3月). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). The International Academic Forum 第9回 Asian Conference on Psychology & the Behavioral Sciences ポスター発表 (45464). 東京.
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-Consciousness. The Society for Personality and Social Psychology 第20回大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
+
+ターン有加里ジェシカ・村田光二・唐沢かおり(2018年8月). 犯罪者の子どもと連合的スティグマ―遺伝的本質主義の観点から―. 日本社会心理学会 第59回大会 ポスター発表 (P11-28). 大阪.
