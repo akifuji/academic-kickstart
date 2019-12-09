@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "The Asian Association of Social Psychology"
   # organization_url = 
+  title = "AASP Summer School Research Grant 2019"
+  # url = 
+  certificate_url = ""
+  date_start = "2019-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "The Asian Association of Social Psychology"
+  # organization_url = 
   title = "Travel Grant for AASP Summer School 2019"
   # url = 
   certificate_url = ""
