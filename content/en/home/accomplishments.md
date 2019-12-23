@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "The Foundation for the Fusion of Science and Technology"
+  # organization_url = 
+  title = "Research Grant (for research on simulation and gaming using advanced and creative methods) 2019"
+  # url = 
+  certificate_url = ""
+  date_start = "2019-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "The Asian Association of Social Psychology"
   # organization_url = 
   title = "AASP Summer School Research Grant 2019"
