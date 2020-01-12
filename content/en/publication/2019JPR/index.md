@@ -16,8 +16,8 @@ publishDate: 2019-06-16
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Japanese Psychological Research"
-publication_short: "Japanese Psychological Research"
+publication: "Japanese Psychological Research, 90(5), 503-512"
+publication_short: "Japanese Psychological Research, 90(5), 503-512"
 
 abstract: "People differ in how sensitive they are to justice or injustice, or how easily they feel justice-related emotions such as anger and guilt, and ruminate on it. This individual difference can be measured by the Justice Sensitivity Inventory (JSI; Schmitt et al., 2010), being divided into four components: Sensitivity to becoming a victim of injustice, sensitivity to observing injustice, sensitivity to passively benefiting from injustice, and sensitivity to actively committing injustice. Each sensitivity has a different effect on various aspects of human behavior (e.g., cooperation) as well as mental and physical health. JSI is available in German, English, Chinese and many other languages, but not in Japanese. This study (n = 453) aimed to develop a Japanese version of JSI (JSI-J) and a short version of it, examining their reliability and validity. They were confirmed to be reliable and valid except for some items. An effective usage of JSI-J and its short version will be discussed."
 
