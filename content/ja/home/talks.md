@@ -76,7 +76,7 @@ subtitle = ""
 
 ターン有加里ジェシカ・橋本剛明・白岩祐子・唐沢かおり (2019年3月). Who “volunteers”? The effect of justice sensitivity in a volunteer’s dilemma at a university dorm. The International Academic Forum 第9回 Asian Conference on Psychology & the Behavioral Sciences 口頭発表 (45973). 東京.
 
-ターン有加里ジェシカ・橋本剛明・Schmitt Manfred・唐沢かおり (2019年3月). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). The International Academic Forum 第9回 Asian Conference on Psychology & the Behavioral Sciences ポスター発表 (45464). 東京.
+ターン有加里ジェシカ・橋本剛明・Manfred Schmitt・唐沢かおり (2019年3月). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). The International Academic Forum 第9回 Asian Conference on Psychology & the Behavioral Sciences ポスター発表 (45464). 東京.
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-Consciousness. The Society for Personality and Social Psychology 第20回大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
 
