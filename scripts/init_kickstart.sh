@@ -29,7 +29,7 @@ rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/
 
 # Post processing
 
-# Deactivate Hero
+# Deactivate Heros
 sed -i '' -e 's/active = true/active = false/' ../content/home/hero.md
 
 # Manual Steps:
