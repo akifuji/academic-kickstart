@@ -70,7 +70,7 @@ subtitle = ""
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年2月). How People Evaluate Volunteers and Shirkers in the Volunteer’s Dilemma? The Effect of Perceived Cost of Volunteering. The Society for Personality and Social Psychology 第21回大会 ポスター発表 (F-143). アメリカ合衆国 ニューオーリンズ.
 
-ターン有加里ジェシカ (2019年11月). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards:  An integrative framework of motivation for rejecting unfair offers in ultimatum games. 第23回実験社会科学カンファレンス ポスター発表 (P8). 東京.
+ターン有加里ジェシカ (2019年11月). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards: An integrative framework of motivation for rejecting unfair offers in ultimatum games. 第23回実験社会科学カンファレンス ポスター発表 (P8). 東京.
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年11月). ボランティアのジレンマにおける公正感受性の正の影響と負の影響 「誰かがやらなければいけない」状況での行動意思の個人差. 日本社会心理学会 第60回大会 口頭発表 (O1801). 東京.
 
