@@ -68,6 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
+ターン有加里ジェシカ (2019年11月). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards:  An integrative framework of motivation for rejecting unfair offers in ultimatum games. 第23回実験社会科学カンファレンス ポスター発表 (P8). 東京.
+
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2019年11月). ボランティアのジレンマにおける公正感受性の正の影響と負の影響 「誰かがやらなければいけない」状況での行動意思の個人差. 日本社会心理学会 第60回大会 口頭発表 (O1801). 東京.
 
 ターン有加里ジェシカ・村田光二・唐沢かおり (2019年9月). 血縁関係に対する潜在的態度と顕在的態度. 日本認知科学会 第36回大会 口頭発表 (OS02-3). 浜松.
