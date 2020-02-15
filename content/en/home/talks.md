@@ -68,7 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2020). How People Evaluate Volunteers and Shirkers in the Volunteer’s Dilemma? The Effect of Perceived Cost of Volunteering. Poster presented at the 21st Annual Meeting of the Society for Personality and Social Psychology. New Orleans, LA, USA.
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2020). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Poster presented at the 21st Annual Meeting of the Society for Personality and Social Psychology. New Orleans, LA, USA.
 
 Tham, Y. J. (November 2019). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards: An integrative framework of motivation for rejecting unfair offers in ultimatum games. Poster presented at the 23rd Experimental Social Science Conference. Tokyo, Japan.
 
