@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student in social psychology 
+role:  
 
 # Organizations/Affiliations
 organizations:
-- name: The Graduate School of Humanities and Sociology at the University of Tokyo, Japan.
+- name: PhD Candidate in Social Psychology at the Graduate School of Humanities and Sociology at the University of Tokyo.
   url: "http://www.utokyo-socpsy.com/index-e.html"
+- name: Research fellow (DC1) of the Japan Society for the Promotion of Science.
+  url: "https://www.jsps.go.jp/english/e-pd/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social dilemmas (especially the volunteer's dilemma) and a sense of fairness.
@@ -29,7 +31,7 @@ education:
   courses:
   - course: Master's degree in social psychology
     institution: The University of Tokyo
-    year: 
+    year: 2020
   - course: Bachelor’s degree in commerce
     institution: Hitotsubashi University
     year: 2018
@@ -64,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a second year graduate student majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemmas. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.
+Welcome! I am a PhD candidate majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemmas. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.
