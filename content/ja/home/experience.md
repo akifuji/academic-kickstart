@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "人文社会系研究科 社会文化研究専攻 博士課程"
+  title = "人文社会系研究科 社会文化研究専攻 博士課程（唐沢かおり研究室）"
   company = "東京大学大学院"
   company_url = ""
   location = "Tokyo, Japan"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "人文社会系研究科 社会文化研究専攻 修士課程"
+  title = "人文社会系研究科 社会文化研究専攻 修士課程（唐沢かおり研究室）"
   company = "東京大学大学院"
   company_url = ""
   location = "Tokyo, Japan"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "商学部 経営学科"
+  title = "商学部 経営学科（沼上幹ゼミ、村田光二ゼミ）"
   company = "一橋大学"
   company_url = ""
   location = "Tokyo, Japan"
