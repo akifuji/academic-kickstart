@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "連絡先"
 
 # Automatically link email and phone?
 autolink = true
