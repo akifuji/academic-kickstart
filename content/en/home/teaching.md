@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "担当科目"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -64,18 +64,18 @@ subtitle = "担当科目"
  # CSS class.
  css_class = ""
 +++
-2020年9月 - 2021年1月  一橋大学 非常勤講師 (心理学)
+September, 2020 - January, 2021  Part-time lecturer at Hitotsubashi University (Course: "Psychology")
 
-2020年4月 - 2020年7月  東京未来大学子ども心理学部 ティーチング・アシスタント (心理学統計法II, 心理学実験)
+April, 2020 - July, 2020  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
 
-2020年4月 - 2020年7月  東京大学文学部 ティーチング・アシスタント (社会心理学演習II)
+April, 2020 - July, 2020  Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
 
-2020年2月              東京未来大学通信課程 ティーチング・アシスタント (心理学基礎実験)
+February, 2020  Teaching assistant at Tokyo Future University (Course: "Psychological Experiment")
 
-2019年4月 - 2019年7月  東京未来大学子ども心理学部 ティーチング・アシスタント (心理学統計法II, 心理学実験)
+April, 2019 - July, 2019  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
 
-2019年4月 - 2019年7月  東京大学文学部 ティーチング・アシスタント (社会心理学演習II)
+April, 2019 - July, 2019  Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
 
-2018年9月 - 2019年1月  東京大学文学部 ティーチング・アシスタント (社会心理学実習I, 社会心理学実習II)
+September, 2018 - January, 2019  Teaching assistant at the University of Tokyo (Courses: "Research Method in Social Psychology I" and "Research Method in Social Psychology II")
 
-2018年4月 - 2018年7月  東京大学文学部 ティーチング・アシスタント (社会心理学実習III)
+April, 2018 - July, 2018  Teaching assistant at the University of Tokyo (Course: "Research Method in Social Psychology III")
