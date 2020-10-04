@@ -67,6 +67,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (September, 2020). Determinants of acceptance of automated vehicles. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
+
+Hashimoto, T., Tham, Y. J., Karasawa, K., and Tai, M. (September, 2020). Understanding people’s attitudes toward a “data-driven” society based on trust and technology acceptance models. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
+
+Ohashi, M. M., Tham, Y. J., Togo, E., and Iume, Y. (September, 2020). Factors for mothers to continue team support in elementary school children's community sports: Effects of sports harassment and the justice sensitivity. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
 
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2020). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Poster presented at the 21st Annual Meeting of the Society for Personality and Social Psychology. New Orleans, LA, USA.
 
