@@ -4,8 +4,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "担当科目"
-subtitle = ""
+title = "Teaching"
+subtitle = "担当科目"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
