@@ -19,7 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "公益財団法人 科学技術融合振興財団"
+  organization = "日本学生支援機構"
+  # organization_url = 
+  title = "第一種奨学金 特に優れた業績による返還免除 採用"
+  # url = 
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "科学技術融合振興財団"
   # organization_url = 
   title = "2019年度調査研究補助金 授与"
   # url = 
