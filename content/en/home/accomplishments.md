@@ -19,13 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Japan Society for the Promotion of Science"
+  # organization_url = 
+  title = "Grant-in-Aid for JSPS Fellows"
+  # amount: 3,400,000 JPY
+  # url = 
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Japan Student Services Organization"
   # organization_url = 
   title = "Exemption from paying off student loans"
   # amount: 1,200,000 JPY
   # url = 
   certificate_url = ""
-  date_start = "2020-04-01"
+  date_start = "2020-03-01"
   date_end = ""
   description = ""
 

@@ -19,9 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "日本学術振興会"
+  # organization_url = 
+  title = "特別研究員奨励費"
+  # amount: 3,400,000 JPY
+  # url = 
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "日本学生支援機構"
   # organization_url = 
-  title = "第一種奨学金 特に優れた業績による返還免除 採用"
+  title = "第一種奨学金 特に優れた業績による返還免除（全額免除） 採用"
   # url = 
   certificate_url = ""
   date_start = "2020-04-01"
