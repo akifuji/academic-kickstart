@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2018-04-01"
-  date_end = "2018-03-31"
+  date_end = "2020-03-31"
   description = """
   """
 
