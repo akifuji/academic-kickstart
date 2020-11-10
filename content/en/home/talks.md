@@ -67,11 +67,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2021). Who incurs a cost for her group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Poster presented at the 22nd Annual Meeting of the Society for Personality and Social Psychology. Online.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2020). Social perception in a volunteer's dilemma in everyday life. Presented at the 61st Annual Meeting of the Japanese Society of Social Psychology. Online.
+
+Shimizu, Y., Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2020). Developing a scale to measure symbolic ableism in Japan. Presented at the 61st Annual Meeting of the Japanese Society of Social Psychology. Online.
+
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (September, 2020). Determinants of acceptance of automated vehicles. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
 
 Hashimoto, T., Tham, Y. J., Karasawa, K., and Tai, M. (September, 2020). Understanding people’s attitudes toward a “data-driven” society based on trust and technology acceptance models. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
 
-Ohashi, M. M., Tham, Y. J., Togo, E., and Iume, Y. (September, 2020). Factors for mothers to continue team support in elementary school children's community sports: Effects of sports harassment and the justice sensitivity. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online.
+Ohashi, M. M., Tham, Y. J., Togo, E., and Iume, Y. (September, 2020). Factors for mothers to continue team support in elementary school children's community sports: Effects of sports harassment and the justice sensitivity. Poster presented at the 84th Annual Convention of the Japanese Psychological Association. Online. *Winner of the Excellent Presentation Award
 
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2020). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Poster presented at the 21st Annual Meeting of the Society for Personality and Social Psychology. New Orleans, LA, USA.
 
