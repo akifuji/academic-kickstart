@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Japan Student Services Organization"
   # organization_url = 
-  title = "Exemption from paying off student loans"
+  title = "Two-year Scholarship"
   # amount: 1,200,000 JPY
   # url = 
   certificate_url = ""
