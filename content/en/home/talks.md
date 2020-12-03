@@ -69,6 +69,8 @@ subtitle = ""
 +++
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2021). Who incurs a cost for her group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Poster presented at the 22nd Annual Meeting of the Society for Personality and Social Psychology. Online.
 
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (December, 2020). Are women more willing to cooperate than men when it does not require skill? An application of the costly signaling theory. Presented at the 13th Annual Meeting of the Human Behavior and Evolution Society of Japan. Online.
+
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2020). Social perception in a volunteer's dilemma in everyday life. Presented at the 61st Annual Meeting of the Japanese Society of Social Psychology. Online.
 
 Shimizu, Y., Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2020). Developing a scale to measure symbolic ableism in Japan. Presented at the 61st Annual Meeting of the Japanese Society of Social Psychology. Online.
