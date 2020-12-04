@@ -69,7 +69,7 @@ subtitle = "学会発表"
 +++
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年2月). Who incurs a cost for her group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. The Society for Personality and Social Psychology 第22回大会 ポスター発表 (55046). オンライン開催.
 
-ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年12月). スキルを必要としない協力行動は女性が行う傾向にあるのか？コストリー・シグナリング理論に基づいた検討. 日本人間行動進化学会 第13回大会 個別研究発表. オンライン開催.
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年12月). スキルを必要としない協力行動は女性が行う傾向にあるのか？コストリー・シグナリング理論に基づいた検討. 日本人間行動進化学会 第13回大会 個別研究発表 (P-23). オンライン開催.
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年11月). 日常的なボランティアのジレンマ状況における対人認知. 日本社会心理学会 第61回大会 Web発表 (503). オンライン開催.
 
