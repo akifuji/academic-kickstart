@@ -64,7 +64,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-September, 2020 - January, 2021  Part-time lecturer at Hitotsubashi University (Course: "Psychology")
+September, 2020 -  Part-time lecturer at Hitotsubashi University (Course: "Psychology")
 
 April, 2020 - July, 2020  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
 

@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Society for Personality and Social Psychology"
+  # organization_url = 
+  title = "International Registration Award 2021 採用"
+  # url = 
+  certificate_url = ""
+  date_start = "2021-02-09"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "日本学術振興会"
   # organization_url = 
   title = "特別研究員奨励費"
@@ -50,7 +60,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "The Asian Association of Social Psychology"
+  organization = "Asian Association of Social Psychology"
   # organization_url = 
   title = "AASP Summer School Research Grant 2019 採用"
   # url = 
@@ -60,7 +70,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "The Asian Association of Social Psychology"
+  organization = "Asian Association of Social Psychology"
   # organization_url = 
   title = "Travel Grant for AASP Summer School 2019 採用"
   # url = 
@@ -110,7 +120,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "The International Academic Forum (IAFOR)"
+  organization = "International Academic Forum (IAFOR)"
   # organization_url = "https://iafor.org/"
   title = "The International Academic Forum Scholarship 2019 採用"
   # url = "https://acp.iafor.org/acp2019/#scholarship-recipients"
