@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Society for Personality and Social Psychology"
   # organization_url = 
-  title = "International Registration Award 2021 採用"
+  title = "International Registration Award 2021"
   # url = 
   certificate_url = ""
   date_start = "2021-02-09"
