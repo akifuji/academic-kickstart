@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Social rewards in the volunteer’s dilemma in everyday life.
+title: Social rewards in the volunteer’s dilemma in everyday life
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
 date: 2021-03-01
 doi: "https://doi.org/10.1111/ajsp.12472"
