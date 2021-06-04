@@ -66,15 +66,11 @@ subtitle = ""
 +++
 September, 2020 -  Part-time lecturer at Hitotsubashi University (Course: "Psychology")
 
-April, 2020 - July, 2020  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
-
-April, 2020 - July, 2020  Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
-
 February, 2020  Teaching assistant at Tokyo Future University (Course: "Psychological Experiment")
 
-April, 2019 - July, 2019  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
+April, 2019 - July, 2020  Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
 
-April, 2019 - July, 2019  Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
+April, 2019 - July, 2020  Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
 
 September, 2018 - January, 2019  Teaching assistant at the University of Tokyo (Courses: "Research Method in Social Psychology I" and "Research Method in Social Psychology II")
 
