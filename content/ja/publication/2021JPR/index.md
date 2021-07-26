@@ -4,7 +4,7 @@
 title: 象徴的障害者偏見尺度日本語版(SAS-J) の作成
 authors: [清水佑輔・ターン有加里ジェシカ・橋本剛明・唐沢かおり]
 date: 2021-05-30
-doi: "https://psych.or.jp/publication/journal92-5#20208"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-30
