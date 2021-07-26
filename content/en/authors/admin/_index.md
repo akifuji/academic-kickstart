@@ -29,7 +29,10 @@ interests:
 
 education:
   courses:
-  - course: Master's degree in social psychology
+  - course: PhD candicate in social psychology
+    institution: The University of Tokyo
+    year: 
+- course: Master's degree in social psychology
     institution: The University of Tokyo
     year: 2020
   - course: Bachelor’s degree in commerce

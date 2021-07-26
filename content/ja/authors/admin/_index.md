@@ -29,7 +29,10 @@ interests:
 
 education:
   courses:
-  - course: 人文社会系研究科(社会文化研究専攻) 修士課程
+  - course: 人文社会系研究科(社会文化研究専攻) 博士後期課程
+    institution: 東京大学
+    year: 2020年4月 - 現在
+- course: 人文社会系研究科(社会文化研究専攻) 修士課程
     institution: 東京大学
     year: 2018年4月 - 2020年3月
   - course: 商学部 経営学科
