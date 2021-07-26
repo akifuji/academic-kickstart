@@ -67,6 +67,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (September, 2021). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? Talk presented at the 67th Annual Convention of the Japanese Group Dynamics Association. Online.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (September, 2021). The effect of the certainty of the proposer’s negative impression on the responder’s motivation to reject unfair offers: An examination using repeated ultimatum games. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Online.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (August, 2021). Ideal and reality of distribution of labor in a group: An examination using asymmetric volunteer’s dilemma games. Presented at the 62nd Annual Meeting of the Japanese Society of Social Psychology. Online.
+
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (July, 2021). People prefer equality in asymmetric volunteer’s dilemmas. Poster presented at the 14th Biennial Conference of the Asian Association of Social Psychology. Online.
+
 Tham, Y. J. (March, 2021). How much should and does each member incur a cost for their group in the volunteer’s dilemma? Poster presented at the 11th Annual Meeting of the Society for Tokyo Young Psychologists. Online.
 
 Tham, Y. J., Hashimoto, T., and Karasawa, K. (February, 2021). Who incurs a cost for theier group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Poster presented at the 22nd Annual Meeting of the Society for Personality and Social Psychology. Online.
@@ -91,7 +99,7 @@ Tham, Y. J., Hashimoto, T., and Karasawa, K. (November, 2019). Individual differ
 
 Tham, Y. J., Murata, K., and Karasawa, K. (September, 2019). Implicit and explicit attitudes toward blood ties. Talk presented at the 36th Annual Meeting of Japanese Cognitive Science Society. Hamamatsu, Japan.
 
-Tham, Y. J., Hashimoto, T., and Karasawa, K. (July, 2019). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Poster presented at the 13th biennial Asian Association of Social Psychology. Taipei, Taiwan.
+Tham, Y. J., Hashimoto, T., and Karasawa, K. (July, 2019). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Poster presented at the 13th Biennial Conference of the Asian Association of Social Psychology. Taipei, Taiwan.
 
 Tham, Y. J., Hashimoto, T., Shiraiwa, Y., and Karasawa, K. (March, 2019). Who “volunteers”? The effect of justice sensitivity in a volunteer’s dilemma at a university dorm. Talk presented at the 9th Asian Conference on Psychology and the Behavioral Sciences. Tokyo, Japan.
 

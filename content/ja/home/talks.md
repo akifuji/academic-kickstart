@@ -67,6 +67,14 @@ subtitle = "学会発表"
  # CSS class.
  css_class = ""
 +++
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年9月). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? 日本グループ・ダイナミックス学会 第67回大会 English Session発表 (E00010). オンライン開催.
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年9月). 相手のネガティブな印象の確実さが不公平な分配を拒否する動機に与える影響：繰り返しの最後通牒ゲームを用いた検討. 日本心理学会 第85回大会 ポスター発表 (P-03). オンライン開催.
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年8月). 集団内の仕事分担の理想と現実：非対称ボランティアのジレンマゲームを用いた検討. 日本社会心理学会 第62回大会 Web発表 (1401). オンライン開催.
+
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年7月). People prefer equality in asymmetric volunteer’s dilemmas. Asian Association of Social Psychology 第14回大会 ポスター発表 (65). オンライン開催.
+
 ターン有加里ジェシカ (2021年3月). ボランティアのジレンマゲームにおけるコスト分担の理想と実際. Society for Tokyo Young Psychologists 第11回大会 ポスター発表 (011-26). オンライン開催.
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年2月). Who incurs a cost for their group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Society for Personality and Social Psychology 第22回大会 ポスター発表 (55046). オンライン開催.
