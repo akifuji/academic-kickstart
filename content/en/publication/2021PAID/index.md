@@ -4,7 +4,7 @@
 title: "Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
 date: 2021-09-01
-doi: ""
+doi: "https://doi.org/10.1016/j.paid.2021.111236"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-22
