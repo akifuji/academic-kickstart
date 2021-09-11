@@ -3,11 +3,11 @@
 
 title: "Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
-date: 2021-09-01
-doi: ""
+date: 2021-09-09
+doi: "https://doi.org/10.1007/s11116-021-10225-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-22
+publishDate: 2021-09-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
