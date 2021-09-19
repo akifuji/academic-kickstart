@@ -67,7 +67,7 @@ subtitle = "学会発表"
  # CSS class.
  css_class = ""
 +++
-ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年9月). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? 日本グループ・ダイナミックス学会 第67回大会 English Session発表 (E1-1). オンライン開催.
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年9月). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? 日本グループ・ダイナミックス学会 第67回大会 English Session発表 (E1-1). オンライン開催. *優秀学会発表賞受賞
 
 ターン有加里ジェシカ・橋本剛明・唐沢かおり (2021年9月). 相手のネガティブな印象の確実さが不公平な分配を拒否する動機に与える影響：繰り返しの最後通牒ゲームを用いた検討. 日本心理学会 第85回大会 ポスター発表 (P-03). オンライン開催.
 
