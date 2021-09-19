@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "日本グループ・ダイナミックス学会"
   # organization_url =
-  title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞(English Session) 受賞"
+  title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞（English Session） 受賞"
   # url = 
   certificate_url = ""
   date_start = "2021-09-12"
