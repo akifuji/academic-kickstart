@@ -150,7 +150,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "International Academic Forum (IAFOR)"
   # organization_url = "https://iafor.org/"
-  title = "The International Academic Forum Scholarship 2019"
+  title = "International Academic Forum Scholarship 2019"
   # amount: 14,000 JPY
   # url = "https://acp.iafor.org/acp2019/#scholarship-recipients"
   certificate_url = ""
