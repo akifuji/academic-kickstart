@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 東京大学大学院 人文社会系研究科 社会心理学研究室(唐沢かおり研究室) 博士課程
+- name: 東京大学大学院 人文社会系研究科 社会心理学研究室(唐沢かおり研究室) 博士後期課程
   url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/"
 - name: 日本学術振興会 特別研究員(DC1)
   url: "https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf"
@@ -25,18 +25,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 公平感
 - 向社会的行動
+- 協力行動
 
 
 education:
   courses:
-  - course: 人文社会系研究科(社会文化研究専攻) 博士後期課程
-    institution: 東京大学
+  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 博士後期課程
+    institution: 
     year: 2020年4月 - 現在
-  - course: 人文社会系研究科(社会文化研究専攻) 修士課程
-    institution: 東京大学
+  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 修士課程
+    institution: 
     year: 2018年4月 - 2020年3月
-  - course: 商学部 経営学科
-    institution: 一橋大学
+  - course: 一橋大学 商学部 経営学科
+    institution: 
     year: 2014年4月 - 2018年3月
 
 
