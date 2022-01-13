@@ -3,7 +3,7 @@
 
 title: Development of a Japanese version of the Symbolic Ableism Scale (SAS-J)
 authors: [Yuho Shimizu, Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
-date: 2022-02-01
+date: 2022-02-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
