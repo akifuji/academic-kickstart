@@ -3,7 +3,7 @@
 
 title: 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――
 authors: [大橋恵・ターン有加里ジェシカ・藤後悦子・井梅由美子]
-date: 2021-08-10
+date: 2022-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

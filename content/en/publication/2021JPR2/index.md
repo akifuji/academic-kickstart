@@ -3,7 +3,7 @@
 
 title: "Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment"
 authors: [Megumi M. Ohashi, Yukari Jessica Tham, Etsuko Togo, and Yumiko Iume]
-date: 2021-08-10
+date: 2022-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

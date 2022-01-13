@@ -16,8 +16,8 @@ publishDate: 2021-09-09
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Transportation (in press)"
-publication_short: "Transportation (in press)"
+publication: "Transportation"
+publication_short: "Transportation"
 
 abstract: "Automated vehicles (AVs) have garnered increasing attention since they have the potential to dramatically reshape our lives in the near future. At the same time, people are concerned about various risks associated with the new technologies. Thus, people’s attitudes toward AVs pose a major challenge to the wider adoption of them. Previous studies examined the effect of benefit/risk perception on people’s acceptance of AVs, but they did not address the multidimensionality of benefit/risk perception. We conducted a survey (n = 840) to reveal the underlying dimensions of how people construe the benefits and risks of conditionally/fully automated vehicles. Our results showed that there were two dimensions underlying benefit perception (i.e., the perception that AVs would increase convenience and reduce harm) and three dimensions underlying risk perception (i.e., the perception of risk to physical safety and comfort, cybersecurity, and ease of use). The perception that AVs would reduce harm positively impacted people’s intention to use both fully automated vehicles and conditionally automated vehicles. The perception that AVs would increase convenience and the perception that AVs would pose a risk to ease of use had a positive and negative effect, respectively, on intention to use fully automated vehicles. This study makes theoretical contributions by questioning the assumption that benefit/risk perception is a one-dimensional factor that impacts people’s acceptance of AVs. This study also has practical implications as it suggests an effective method for automobile manufacturers and policymakers to communicate with the public regarding the new technologies and diffuse them safely."
 

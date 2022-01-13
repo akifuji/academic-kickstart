@@ -3,7 +3,7 @@
 
 title: "Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma"
 authors: [Yukari Jessica Tham, Takaaki Hashimoto, and Kaori Karasawa]
-date: 2021-09-01
+date: 2022-02-01
 doi: "https://doi.org/10.1016/j.paid.2021.111236"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: 2021-08-22
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Personality and Individual Differences (in press)"
-publication_short: "Personality and Individual Differences (in press)"
+publication: "Personality and Individual Differences, 185, 111236"
+publication_short: "Personality and Individual Differences, 185, 111236"
 
 abstract: "The “volunteer’s dilemma” (VoD) is a group situation in which one member needs to incur a volunteering cost to provide public goods to the group. Considering that efficiency conflicts with equality in the VoD, we investigated how dispositional and situational variables regarding equality affect volunteering behavior in the VoD (specifically, in repeated VoD). We conducted an online VoD game comprising a new “lever-pulling paradigm,” and participants were grouped with two other participants to play the game iteratively. The results showed the effects of the dispositional factor (i.e., justice sensitivity; JS); those sensitive to suffering from inequality (i.e., those high in JS-Victim) were unlikely to volunteer, whereas those sensitive to benefiting from inequality (i.e., those high in JS-Beneficiary) were likely to volunteer. We also found the effect of the situational factor (i.e., previous relative volunteering rate); those who had volunteered more than others became less inclined to volunteer, and vice versa. This research shows that both dispositional and situational factors regarding equality play a crucial role in repeated VoD, while posing future questions and directions to understand their interaction effects."
 

@@ -91,7 +91,7 @@ subtitle = "学会発表"
 
 大橋恵・ターン有加里ジェシカ・藤後悦子・井梅由美子 (2020年9月). 母親が小学生の地域スポーツにおけるチームサポートを継続する要因. 日本心理学会 第84回大会 ポスター発表 (PC-030). オンライン開催. *優秀発表賞受賞
 
-ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年2月). How People Evaluate Volunteers and Shirkers in the Volunteer’s Dilemma? The Effect of Perceived Cost of Volunteering. Society for Personality and Social Psychology 第21回大会 ポスター発表 (F-143). アメリカ合衆国 ニューオーリンズ.
+ターン有加里ジェシカ・橋本剛明・唐沢かおり (2020年2月). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Society for Personality and Social Psychology 第21回大会 ポスター発表 (F-143). アメリカ合衆国 ニューオーリンズ.
 
 ターン有加里ジェシカ (2019年11月). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards: An integrative framework of motivation for rejecting unfair offers in ultimatum games. 第23回実験社会科学カンファレンス ポスター発表 (P8). 東京.
 
