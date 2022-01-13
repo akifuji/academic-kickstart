@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Society for Personality and Social Psychology"
+  # organization_url = 
+  title = "Travel Award 2022 採用"
+  # url = 
+  certificate_url = ""
+  date_start = "2022-02-16"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "日本グループ・ダイナミックス学会"
   # organization_url =
   title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞（English Session） 受賞"
