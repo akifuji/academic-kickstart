@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 - ビジネスリサーチラボ
   - フェロー (2020年4月 - 2022年3月)
 - ブリティッシュコロンビア大学 心理学部
-  - MAGIC Lab リサーチ・アシスタント (2017年1月 - 2017年4月)
+  - リサーチ・アシスタント (2017年1月 - 2017年4月)
 - 一橋ビジネススクール 国際企業戦略専攻
   - リサーチ・アシスタント (2016年2月 - 2018年3月)
 - 一橋大学 イノベーションイノベーション研究センター
