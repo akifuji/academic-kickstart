@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -18,144 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Society for Personality and Social Psychology"
-  # organization_url = 
-  title = "Society for Personality and Social Psychology Travel Award 2022 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2022-02-16"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本グループ・ダイナミックス学会"
-  # organization_url =
-  title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞 (English Session) 受賞"
-  # url = 
-  certificate_url = ""
-  date_start = "2021-09-12"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Society for Personality and Social Psychology"
-  # organization_url = 
-  title = "Society for Personality and Social Psychology International Registration Award 2021 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2021-02-09"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本学術振興会"
-  # organization_url = 
-  title = "日本学術振興会 特別研究員奨励費"
-  # amount: 3,400,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本学生支援機構"
-  # organization_url = 
-  title = "日本学生支援機構 第一種奨学金 特に優れた業績による返還免除 (全額免除) 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "科学技術融合振興財団"
-  # organization_url = 
-  title = "科学技術融合振興財団 2019年度調査研究補助金 授与"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Asian Association of Social Psychology"
-  # organization_url = 
-  title = "Asian Association of Social Psychology Summer School Research Grant 2019 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Asian Association of Social Psychology"
-  # organization_url = 
-  title = "Asian Association of Social Psychology Travel Grant for Summer School 2019 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-08-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本心理学会若手の会"
-  # organization_url = 
-  title = "日本心理学会若手の会 第83回大会参加・発表のための旅費支援制度 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本社会心理学会"
-  # organization_url = 
-  title = "日本社会心理学会 2019年度大学院生・若手研究者海外学会発表支援制度 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本心理学会"
-  # organization_url = 
-  title = "日本心理学会 2019年度国際会議等参加旅費補助金制度 採用"
-  # url = 
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本社会心理学会"
-  # organization_url = "http://www.socialpsychology.jp/index.html"
-  title = "日本社会心理学会 2018年度若手研究者奨励賞 受賞"
-  # url = "http://www.socialpsychology.jp/award/wakate_2018_2.html"
-  certificate_url = ""
-  date_start = "2018-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "International Academic Forum"
-  # organization_url = "https://iafor.org/"
-  title = "International Academic Forum Scholarship 2019 採用"
-  # url = "https://acp.iafor.org/acp2019/#scholarship-recipients"
-  certificate_url = ""
-  date_start = "2018-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "日本グループ・ダイナミックス学会"
-  # organization_url = "http://www.groupdynamics.gr.jp/"
-  title = "日本グループ・ダイナミックス学会 2018年度国際学会発表支援制度 採用"
-  # url = "http://www.groupdynamics.gr.jp/support.html"
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
 +++
+- Society for Personality and Social Psychology Travel Award 2022 採用 (2022年2月)
+- 日本グループ・ダイナミックス学会 2021年度優秀学会発表賞 (English Session) 受賞 (2021年9月)
+- Society for Personality and Social Psychology International Registration Award 2021 採用 (2021年2月)
+- 日本学術振興会 特別研究員奨励費 (2020年4月 - 2023年3月)
+- 日本学生支援機構 第一種奨学金 特に優れた業績による返還免除 (全額免除) 採用 (2020年4月)
+- 科学技術融合振興財団 2019年度調査研究補助金 採用 (2019年12月)
+- Asian Association of Social Psychology Summer School Research Grant 2019 採用 (2019年12月)
+- Asian Association of Social Psychology Travel Grant for Summer School 2019 採用 (2019年7月)
+- 日本心理学会若手の会 第83回大会参加・発表のための旅費支援制度 採用 (2019年9月)
+- 日本社会心理学会 2019年度大学院生・若手研究者海外学会発表支援制度 採用 (2019年7月)
+- 日本心理学会 2019年度国際会議等参加旅費補助金制度 採用 (2019年7月)
+- International Academic Forum Scholarship 2019 採用 (2019年3月)
+- 日本社会心理学会 2018年度若手研究者奨励賞 受賞 (2018年12月)
+- 日本グループ・ダイナミックス学会 2018年度国際学会発表支援制度 採用 (2018年10月)
+# 年月の表記に関して：特定の学会の参加費など支援対象が発生する時期が明らかな場合は、その発生年月を書く。支援対象が発生する時期が明らかでない場合は、受けることが決まった年月を書く。
