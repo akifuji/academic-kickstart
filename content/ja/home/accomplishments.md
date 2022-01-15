@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Society for Personality and Social Psychology"
   # organization_url = 
-  title = "Travel Award 2022 採用"
+  title = "Society for Personality and Social Psychology Travel Award 2022 採用"
   # url = 
   certificate_url = ""
   date_start = "2022-02-16"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "日本グループ・ダイナミックス学会"
   # organization_url =
-  title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞（English Session） 受賞"
+  title = "日本グループ・ダイナミックス学会 2021年度優秀学会発表賞 (English Session) 受賞"
   # url = 
   certificate_url = ""
   date_start = "2021-09-12"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Society for Personality and Social Psychology"
   # organization_url = 
-  title = "International Registration Award 2021 採用"
+  title = "Society for Personality and Social Psychology International Registration Award 2021 採用"
   # url = 
   certificate_url = ""
   date_start = "2021-02-09"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "日本学術振興会"
   # organization_url = 
-  title = "特別研究員奨励費"
+  title = "日本学術振興会 特別研究員奨励費"
   # amount: 3,400,000 JPY
   # url = 
   certificate_url = ""
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "日本学生支援機構"
   # organization_url = 
-  title = "第一種奨学金 特に優れた業績による返還免除（全額免除） 採用"
+  title = "日本学生支援機構 第一種奨学金 特に優れた業績による返還免除 (全額免除) 採用"
   # url = 
   certificate_url = ""
   date_start = "2020-04-01"
@@ -72,7 +72,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "科学技術融合振興財団"
   # organization_url = 
-  title = "2019年度調査研究補助金 授与"
+  title = "科学技術融合振興財団 2019年度調査研究補助金 授与"
   # url = 
   certificate_url = ""
   date_start = "2019-12-01"
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Asian Association of Social Psychology"
   # organization_url = 
-  title = "AASP Summer School Research Grant 2019 採用"
+  title = "Asian Association of Social Psychology Summer School Research Grant 2019 採用"
   # url = 
   certificate_url = ""
   date_start = "2019-12-01"
@@ -92,7 +92,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Asian Association of Social Psychology"
   # organization_url = 
-  title = "Travel Grant for AASP Summer School 2019 採用"
+  title = "Asian Association of Social Psychology Travel Grant for Summer School 2019 採用"
   # url = 
   certificate_url = ""
   date_start = "2019-08-01"
@@ -140,7 +140,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "International Academic Forum (IAFOR)"
+  organization = "International Academic Forum"
   # organization_url = "https://iafor.org/"
   title = "International Academic Forum Scholarship 2019 採用"
   # url = "https://acp.iafor.org/acp2019/#scholarship-recipients"

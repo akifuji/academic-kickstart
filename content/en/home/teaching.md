@@ -65,7 +65,7 @@ subtitle = ""
  css_class = ""
 +++
 - Part-time lecturer at Hitotsubashi University
-  - Psychology (September 2020 - present)
+  - Psychology (September 2020 - Present)
 -  Teaching assistant at Tokyo Future University
  - Statistics for Psychology II (April 2019 - July 2019, April 2020 - July 2020)
  - Psychological Experiment (April 2019 - July 2019, April 2020 - July 2020)

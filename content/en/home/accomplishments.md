@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Japan Student Services Organization"
   # organization_url = 
-  title = "Two-year Scholarship"
+  title = "Two-year Scholarship for Outstanding Achievement"
   # amount: 1,200,000 JPY
   # url = 
   certificate_url = ""
@@ -84,7 +84,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Asian Association of Social Psychology"
   # organization_url = 
-  title = "AASP Summer School Research Grant 2019"
+  title = "Summer School Research Grant 2019"
   # amount: 1,000 USD
   # url = 
   certificate_url = ""
@@ -95,7 +95,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Asian Association of Social Psychology"
   # organization_url = 
-  title = "Travel Grant for AASP Summer School 2019"
+  title = "Travel Grant for Summer School 2019"
   # amount: 300 USD
   # url = 
   certificate_url = ""
@@ -148,7 +148,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "International Academic Forum (IAFOR)"
+  organization = "International Academic Forum"
   # organization_url = "https://iafor.org/"
   title = "International Academic Forum Scholarship 2019"
   # amount: 14,000 JPY
