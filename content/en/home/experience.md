@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,42 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Doctor's Degree Program, Department of Social Psychology, Graduate School of Humanities and Sociology"
-  company = "The University of Tokyo"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2020-04-01"
-  date_end = ""
-  description = """
-  """
-
-[[experience]]
-  title = "Master's Degree Program, Department of Social Psychology, Graduate School of Humanities and Sociology"
-  company = "The University of Tokyo"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2018-04-01"
-  date_end = "2020-03-31"
-  description = """
-  """
-
-[[experience]]
-  title = "Exchange Program"
-  company = "The University of British Columbia"
-  company_url = ""
-  location = "Vancouver, Canada"
-  date_start = "2016-09-01"
-  date_end = "2017-04-30"
-  description = """"""
-
-[[experience]]
-  title = "Department of Commerce and Management"
-  company = "Hitotsubashi University"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2014-04-01"
-  date_end = "2018-03-10"
-  description = """"""
 
 +++
+- University of Tokyo International Research Center for Neurointelligence
+  - Research assistant (October 2021 - March 2022)
+- Tokyo Metropolitan Institute of Gerontology
+  - Part-time researcher (May 2021 - March 2022)
+- Business Research Lab, Inc.
+  - Research fellow (April 2020 - March 2022)
+- Psychology Department of the University of British Columbia 
+  - Research assistant (January 2017 - April 2017)
+- Hitotsubashi University Business School (School of International Corporate Strategy)
+  - Research assistant (February 2016 - March 2018)
+- Hitotsubashi University Institute of Innovation Research 
+  - Research assistant (November 2015 - June 2016)
