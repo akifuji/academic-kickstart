@@ -64,17 +64,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- September, 2021 - January, 2022
-  - Teaching assistant at the University of Tokyo (Courses: "Research Method in Social Psychology II")
-- September, 2020 - Present
-  - Part-time lecturer at Hitotsubashi University (Course: "Psychology")
-- February, 2020  
-  - Teaching assistant at Tokyo Future University (Course: "Psychological Experiment")
-- April, 2019 - July, 2020
-  - Teaching assistant at Tokyo Future University (Courses: "Statistics for Psychology II" and "Psychological Experiment")
-- April, 2019 - July, 2020
-  - Teaching assistant at the University of Tokyo (Course: "Seminar in Social Psychology II")
-- September, 2018 - January, 2019
-  - Teaching assistant at the University of Tokyo (Courses: "Research Method in Social Psychology I" and "Research Method in Social Psychology II")
-- April, 2018 - July, 2018
-  - Teaching assistant at the University of Tokyo (Course: "Research Method in Social Psychology III")
+- Part-time lecturer at Hitotsubashi University
+  - Psychology (September 2020 - present)
+-  Teaching assistant at Tokyo Future University
+ - Statistics for Psychology II (April 2019 - July 2019, April 2020 - July 2020)
+ - Psychological Experiment (April 2019 - July 2019, April 2020 - July 2020)
+ - Basic Psychological Experiment (February 2020)
+- Teaching assistant at the University of Tokyo
+  - Research Method in Social Psychology I (September 2018 - January 2019, September 2020 - January 2021)
+  - Research Method in Social Psychology II (September 2018 - January 2019, September 2021 - January 2022)
+  - Research Method in Social Psychology III (April 2018 - July 2018)
+  - Seminar in Social Psychology II (April 2019 - July 2019, April 2020 - July 2020)
