@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "経歴"
+title = "Research Experience"
+subtitle = "研究に関する経歴"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,41 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "人文社会系研究科 社会文化研究専攻 博士課程（唐沢かおり研究室）"
-  company = "東京大学大学院"
+  title = ""
+  company = ""
   company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2020-04-01"
+  location = ""
+  date_start = ""
   date_end = ""
   description = """
   """
-
-[[experience]]
-  title = "人文社会系研究科 社会文化研究専攻 修士課程（唐沢かおり研究室）"
-  company = "東京大学大学院"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2018-04-01"
-  date_end = "2020-03-31"
-  description = """
-  """
-
-[[experience]]
-  title = "交換留学"
-  company = "ブリティッシュ・コロンビア大学"
-  company_url = ""
-  location = "Vancouver, Canada"
-  date_start = "2016-09-01"
-  date_end = "2017-04-30"
-  description = """"""
-
-[[experience]]
-  title = "商学部 経営学科（沼上幹ゼミ、村田光二ゼミ）"
-  company = "一橋大学"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2014-04-01"
-  date_end = "2018-03-31"
-  description = """"""
-
 +++
+- 東京大学 国際高等研究所 ニューロインテリジェンス国際研究機構
+  - リサーチ・アシスタント (2021年10月 - 2022年3月)
+- 東京都健康長寿医療センター
+  - 非常勤研究員 (2021年5月 - 2022年3月)
+- ビジネスリサーチラボ
+  - フェロー (2020年4月 - 2022年3月)
+- ブリティッシュコロンビア大学 心理学部
+  - MAGIC Lab リサーチ・アシスタント (2017年1月 - 2017年4月)
+- 一橋ビジネススクール 国際企業戦略専攻
+  - リサーチ・アシスタント (2016年2月 - 2018年3月)
+- 一橋大学 イノベーションイノベーション研究センター
+  - リサーチ・アシスタント (2015年11月 - 2016年6月)
