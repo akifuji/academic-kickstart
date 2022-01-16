@@ -12,7 +12,7 @@ subtitle = "論文"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = ""
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -65,7 +65,23 @@ subtitle = "論文"
  # CSS class.
  css_class = ""
 +++
-
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (in press). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology_. https://doi.org/10.1111/ajsp.12472
+
+- 大橋 恵・**ターン 有加里ジェシカ**・藤後 悦子・井梅 由美子 (印刷中). 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――. 心理学研究.
+
+- 清水 佑輔・**ターン 有加里ジェシカ**・橋本 剛明・唐沢 かおり (印刷中). 象徴的障害者偏見尺度日本語版 (SAS-J) の作成. 心理学研究.
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation_. https://doi.org/10.1007/s11116-021-10225-0
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
+
+- **ターン 有加里ジェシカ**・橋本 剛明・シュミット マンフレッド・唐沢 かおり (2019). 公正感受性尺度日本語版 (JSI-J) の作成. 心理学研究, _90_(5), 503–512. https://doi.org/10.4992/jjpsy.90.18234
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2019). The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma. _Personality and Individual Differences, 151_, 109501. https://doi.org/10.1016/j.paid.2019.07.011
+
+- **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77

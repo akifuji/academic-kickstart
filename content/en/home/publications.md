@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = ""
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -65,7 +65,23 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (in press). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology_. https://doi.org/10.1111/ajsp.12472
+
+- Ohashi, M. M., **Tham, Y. J.**, Togo, T., & Iume, Y. (in press). Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment. _Japanese Psychological Research_.
+
+- Shimizu, Y., **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (in press). Development of a Japanese version of the Symbolic Ableism Scale (SAS-J). _Japanese Psychological Research_.
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation_. https://doi.org/10.1007/s11116-021-10225-0
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
+
+- **Tham, Y. J.**, Hashimoto, T., Schmitt, M., & Karasawa, K. (2019). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). _Japanese Psychological Research, 90_(5), 503–512. https://doi.org/10.4992/jjpsy.90.18234
+
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2019). The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma. _Personality and Individual Differences, 151_, 109501. https://doi.org/10.1016/j.paid.2019.07.011
+
+- **Tham, Y. J.**, Murata, K., & Karasawa, K. (2018). Because of the “bad blood”?: Genetic essentialism and associative stigma of an ex-convict’s children. _Journal of Human Environmental Studies, 16_(2), 77–82. https://doi.org/10.4189/shes.16.77

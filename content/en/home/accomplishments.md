@@ -38,18 +38,33 @@ date_format = "Jan 2006"
 
 +++
 - Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+
 - Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021)
+
 - International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
+
 - Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023)
+
 - Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020)
+
 - Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019)
+
 - Summer School Research Grant 2019, Awarded by Asian Association of Social Psychology (December 2019)
+
 - Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association, Awarded by Japanese Psychological Association Early Career Psychologists Network (September 2019)
+
 - Travel Grant for Summer School 2019, Awarded by Asian Association of Social Psychology (July 2019)
+
 - Travel Grant for International Conferences 2019, Awarded by Japanese Society of Social Psychology (July 2019)
+
 - Travel Grant for International Conferences 2019, Awarded by Japanese Psychological Association (July 2019)
+
 - Scholarship 2019, Awarded by International Academic Forum (March 2019)
+
 - Young Researcher's Scholarship Award 2019, Awarded by Japanese Society of Social Psychology (December 2018)
+
 - Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018)
+
 - Scholarship for Studying Abroad, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+
 - Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)
