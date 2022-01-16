@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Amount
-#  Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+#  Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022): 55USD
 #  Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021): 0JPY
-#  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
+#  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021): 50USD?
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023): 3,400,000JPY
 #  Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020): 1,200,000JPY
 #  Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019): 225,000JPY
@@ -33,9 +33,11 @@ date_format = "Jan 2006"
 #  Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018): 35,000JPY
 #  Young Researcher's Scholarship Award 2019, Awarded by Japanese Society of Social Psychology (December 2018): 100,000JPY
 #  Scholarship 2019, Awarded by International Academic Forum (March 2019): 14,000JPY
+#  Scholarship for Studying Abroad, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+#  Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)
 
 +++
-- Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+- Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
 - Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021)
 - International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
 - Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023)
