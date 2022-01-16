@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -18,154 +18,36 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Society for Personality and Social Psychology"
-  # organization_url = 
-  title = "Travel Award 2022"
-  # url = 
-  certificate_url = ""
-  date_start = "2022-02-16"
-  date_end = ""
-  description = ""
+# Amount
+#  Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+#  Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021): 0JPY
+#  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
+#  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023): 3,400,000JPY
+#  Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020): 1,200,000JPY
+#  Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019): 225,000JPY
+#  Summer School Research Grant 2019, Awarded by Asian Association of Social Psychology (December 2019): 1,000USD
+#  Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association, Awarded by Japanese Psychological Association Early Career Psychologists Network (September 2019): 30,000JPY
+#  Travel Grant for Summer School 2019, Awarded by Asian Association of Social Psychology (July 2019): 300USD
+#  Travel Grant for International Conferences 2019, Awarded by Japanese Society of Social Psychology (July 2019): 90,540JPY
+#  Travel Grant for International Conferences 2019, Awarded by Japanese Psychological Association (July 2019): 38,000JPY
+#  Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018): 35,000JPY
+#  Young Researcher's Scholarship Award 2019, Awarded by Japanese Society of Social Psychology (December 2018): 100,000JPY
+#  Scholarship 2019, Awarded by International Academic Forum (March 2019): 14,000JPY
 
-[[item]]
-  organization = "Japanese Group Dynamics Association"
-  # organization_url = 
-  title = "Excellent Presentation Award 2021"
-  # url = 
-  certificate_url = ""
-  date_start = "2021-09-12"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Society for Personality and Social Psychology"
-  # organization_url = 
-  title = "International Registration Award 2021"
-  # url = 
-  certificate_url = ""
-  date_start = "2021-02-09"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japan Society for the Promotion of Science"
-  # organization_url = 
-  title = "Grant-in-Aid for JSPS Fellows"
-  # amount: 3,400,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japan Student Services Organization"
-  # organization_url = 
-  title = "Two-year Scholarship for Outstanding Achievement"
-  # amount: 1,200,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2020-03-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Foundation for the Fusion of Science and Technology"
-  # organization_url = 
-  title = "Research Grant (for research on simulation and gaming using advanced and creative methods) 2019"
-  # amount: 225,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2019-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Asian Association of Social Psychology"
-  # organization_url = 
-  title = "Summer School Research Grant 2019"
-  # amount: 1,000 USD
-  # url = 
-  certificate_url = ""
-  date_start = "2019-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Asian Association of Social Psychology"
-  # organization_url = 
-  title = "Travel Grant for Summer School 2019"
-  # amount: 300 USD
-  # url = 
-  certificate_url = ""
-  date_start = "2019-08-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japanese Psychological Association (Early Career Psychologists Network)"
-  # organization_url = 
-  title = "Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association"
-  # amount: 30,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japanese Society of Social Psychology"
-  # organization_url = 
-  title = "Travel Grant for International Conferences 2019"
-  # amount: 90,540 JPY
-  # url = "http://www.socialpsychology.jp/award/doc_support/support_2019.pdf"
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japanese Psychological Association"
-  # organization_url = 
-  title = "Travel Grant for International Conferences 2019"
-  # amount: 38,000 JPY
-  # url = 
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japanese Society of Social Psychology"
-  # organization_url = "http://www.socialpsychology.jp/index.html"
-  title = "Young Researcher's Scholarship Award 2019"
-  # amount: 100,000 JPY
-  # url = "http://www.socialpsychology.jp/award/wakate_2018_2.html"
-  certificate_url = ""
-  date_start = "2018-12-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "International Academic Forum"
-  # organization_url = "https://iafor.org/"
-  title = "International Academic Forum Scholarship 2019"
-  # amount: 14,000 JPY
-  # url = "https://acp.iafor.org/acp2019/#scholarship-recipients"
-  certificate_url = ""
-  date_start = "2019-03-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Japanese Group Dynamics Association"
-  # organization_url = "http://www.groupdynamics.gr.jp/"
-  title = "Travel Grant for International Conferences 2018"
-  # amount: 35,000 JPY
-  # url = "http://www.groupdynamics.gr.jp/support.html"
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
 +++
+- Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+- Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021)
+- International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
+- Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023)
+- Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020)
+- Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019)
+- Summer School Research Grant 2019, Awarded by Asian Association of Social Psychology (December 2019)
+- Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association, Awarded by Japanese Psychological Association Early Career Psychologists Network (September 2019)
+- Travel Grant for Summer School 2019, Awarded by Asian Association of Social Psychology (July 2019)
+- Travel Grant for International Conferences 2019, Awarded by Japanese Society of Social Psychology (July 2019)
+- Travel Grant for International Conferences 2019, Awarded by Japanese Psychological Association (July 2019)
+- Scholarship 2019, Awarded by International Academic Forum (March 2019)
+- Young Researcher's Scholarship Award 2019, Awarded by Japanese Society of Social Psychology (December 2018)
+- Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018)
+- Scholarship for Studying Abroad, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+- Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)

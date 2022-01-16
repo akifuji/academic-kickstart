@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+# 年月の表記に関して：特定の学会の参加費など支援対象が発生する時期が明らかな場合は、その発生年月を書く。支援対象が発生する時期が明らかでない場合は、受けることが決まった年月を書く。
 +++
 - Society for Personality and Social Psychology Travel Award 2022 採用 (2022年2月)
 - 日本グループ・ダイナミックス学会 2021年度優秀学会発表賞 (English Session) 受賞 (2021年9月)
