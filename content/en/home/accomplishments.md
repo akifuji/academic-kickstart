@@ -39,6 +39,8 @@ date_format = "Jan 2006"
 +++
 - Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
 
+- Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022)
+
 - Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021)
 
 - International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
