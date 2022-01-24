@@ -20,6 +20,7 @@ date_format = "Jan 2006"
 
 # Amount
 #  Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022): 55USD
+#  Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022): 1,100,000JPY
 #  Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021): 0JPY
 #  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021): 50USD?
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023): 3,400,000JPY
@@ -41,7 +42,7 @@ date_format = "Jan 2006"
 
 - Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022)
 
-- Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021)
+- Excellent Presentation Award at the 67th Annual Convention, Awarded by Japanese Group Dynamics Association (September 2021)
 
 - International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
 
@@ -61,12 +62,12 @@ date_format = "Jan 2006"
 
 - Travel Grant for International Conferences 2019, Awarded by Japanese Psychological Association (July 2019)
 
-- Scholarship 2019, Awarded by International Academic Forum (March 2019)
+- IAFOR Scholarship 2019, Awarded by International Academic Forum (March 2019)
 
-- Young Researcher's Scholarship Award 2019, Awarded by Japanese Society of Social Psychology (December 2018)
+- Young Researcher's Scholarship Award 2018, Awarded by Japanese Society of Social Psychology (December 2018)
 
 - Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018)
 
-- Scholarship for Studying Abroad, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+- Scholarship for Studying Abroad 2016, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
 
-- Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)
+- Scholarship for Studying Abroad 2016, Awarded by Josuikai (September 2016 - May 2017)

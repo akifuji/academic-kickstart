@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 - 日本学術振興会 2021年度 育志賞 受賞 (2022年1月)
 
-- 日本グループ・ダイナミックス学会 2021年度 優秀学会発表賞 (English Session) 受賞 (2021年9月)
+- 日本グループ・ダイナミックス学会 第67回大会 (English Session) 優秀学会発表賞 受賞 (2021年9月)
 
 - Society for Personality and Social Psychology International Registration Award 2021 採用 (2021年2月)
 
