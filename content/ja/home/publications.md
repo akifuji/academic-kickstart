@@ -68,11 +68,11 @@ subtitle = "論文"
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (in press). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology_. https://doi.org/10.1111/ajsp.12472
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology, 25,_117-125. https://doi.org/10.1111/ajsp.12472
 
-- 大橋 恵・**ターン 有加里ジェシカ**・藤後 悦子・井梅 由美子 (印刷中). 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――. 心理学研究.
+- 大橋 恵・**ターン 有加里ジェシカ**・藤後 悦子・井梅 由美子 (2022). 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――. 心理学研究, _93_(1).
 
-- 清水 佑輔・**ターン 有加里ジェシカ**・橋本 剛明・唐沢 かおり (印刷中). 象徴的障害者偏見尺度日本語版 (SAS-J) の作成. 心理学研究.
+- 清水 佑輔・**ターン 有加里ジェシカ**・橋本 剛明・唐沢 かおり (2022). 象徴的障害者偏見尺度日本語版 (SAS-J) の作成. 心理学研究, _92_(6), 532-542.
 
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
 

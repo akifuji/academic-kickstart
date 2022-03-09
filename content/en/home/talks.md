@@ -67,6 +67,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2022). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Poster presented at the 23rd Annual Meeting of the Society for Personality and Social Psychology. Online.
+
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (September, 2021). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? Talk presented at the 67th Annual Convention of the Japanese Group Dynamics Association. Online. *Winner of the Excellent Presentation Award
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (September, 2021). The effect of the certainty of the proposer’s negative impression on the responder’s motivation to reject unfair offers: An examination using repeated ultimatum games. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Online.
