@@ -107,6 +107,6 @@ subtitle = "学会発表"
 
 - **ターン有加里ジェシカ**・橋本剛明・Manfred Schmitt・唐沢かおり (2019年3月). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). International Academic Forum 第9回 Asian Conference on Psychology and the Behavioral Sciences ポスター発表 (45464). 東京.
 
-- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-Consciousness. Society for Personality and Social Psychology 第20回大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
+- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-consciousness. Society for Personality and Social Psychology 第20回大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
 
 - **ターン有加里ジェシカ**・村田光二・唐沢かおり(2018年8月). 犯罪者の子どもと連合的スティグマ―遺伝的本質主義の観点から―. 日本社会心理学会 第59回大会 ポスター発表 (P11-28). 大阪.

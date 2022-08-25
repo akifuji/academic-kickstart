@@ -107,6 +107,6 @@ subtitle = ""
 
 - **Tham, Y. J.**, Hashimoto, T., Schmitt, M., and Karasawa, K. (March, 2019). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). Poster presented at the 9th Asian Conference on Psychology and the Behavioral Sciences. Tokyo, Japan.
 
-- **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2019). Egoistic motives of concerning injustice for others: Justice sensitivity and self-Consciousness. Poster presented at the 20th Annual Meeting of the Society for Personality and Social Psychology. Portland, OR, USA.
+- **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2019). Egoistic motives of concerning injustice for others: Justice sensitivity and self-consciousness. Poster presented at the 20th Annual Meeting of the Society for Personality and Social Psychology. Portland, OR, USA.
 
 - **Tham, Y. J.**, Murata, K., & Karasawa, K. Because of the “bad blood”? Genetic essentialism and associative stigma of an ex-convict’s children. (August, 2018). Poster presented at the 59th Annual Meeting of the Japanese Society of Social Psychology. Osaka, Japan.

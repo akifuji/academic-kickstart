@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 +++
 - University of Tokyo International Research Center for Neurointelligence
-  - Research assistant (October 2021 - March 2022)
+  - Research project specialist (October 2021 - March 2022)
 - Tokyo Metropolitan Institute of Gerontology
   - Part-time researcher (May 2021 - March 2022)
 - Business Research Lab, Inc.

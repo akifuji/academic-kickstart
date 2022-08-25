@@ -19,10 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Amount
+#  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2022 - March 2024): 2,300,000JPY
 #  Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022): 55USD
 #  Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022): 1,100,000JPY
 #  Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021): 0JPY
-#  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021): 50USD?
+#  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021): 50USD
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023): 3,400,000JPY
 #  Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020): 1,200,000JPY
 #  Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019): 225,000JPY
