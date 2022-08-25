@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # 年月の表記に関して：特定の学会の参加費など支援対象が発生する時期が明らかな場合は、その発生年月を書く。支援対象が発生する時期が明らかでない場合は、受けることが決まった年月を書く。
 +++
+- 日本学術振興会 特別研究員奨励費 (2022年4月 - 2024年3月)
+
 - Society for Personality and Social Psychology Graduate Travel Award 2022 採用 (2022年2月)
 
 - 日本学術振興会 2021年度 育志賞 受賞 (2022年1月)

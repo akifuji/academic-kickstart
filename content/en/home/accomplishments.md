@@ -39,6 +39,8 @@ date_format = "Jan 2006"
 #  Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)
 
 +++
+- Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2022 - March 2024)
+
 - Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
 
 - Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022)

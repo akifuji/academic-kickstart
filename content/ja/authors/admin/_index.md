@@ -16,7 +16,7 @@ role:
 organizations:
 - name: 東京大学大学院 人文社会系研究科 社会心理学研究室(唐沢かおり研究室) 博士後期課程
   url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/"
-- name: 日本学術振興会 特別研究員(DC1)
+- name: 日本学術振興会 特別研究員
   url: "https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf"
 
 # Short bio (displayed in user profile at end of posts)

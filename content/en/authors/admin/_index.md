@@ -16,7 +16,7 @@ role:
 organizations:
 - name: PhD Candidate in Social Psychology at the Graduate School of Humanities and Sociology at the University of Tokyo.
   url: "http://www.utokyo-socpsy.com/index-e.html"
-- name: Research fellow (DC1) of the Japan Society for the Promotion of Science.
+- name: Research fellow of the Japan Society for the Promotion of Science.
   url: "https://www.jsps.go.jp/english/e-pd/index.html"
 
 # Short bio (displayed in user profile at end of posts)
