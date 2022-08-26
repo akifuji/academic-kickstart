@@ -70,7 +70,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}} -->
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology, 25_,117-125. https://doi.org/10.1111/ajsp.12472
 
-- Ohashi, M. M., **Tham, Y. J.**, Togo, T., & Iume, Y. (2022). Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment. _Japanese Psychological Research, 93_(1).
+- Ohashi, M. M., **Tham, Y. J.**, Togo, T., & Iume, Y. (2022). Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment. _Japanese Psychological Research, 93_(1), 10-20. https://doi.org/10.4992/jjpsy.93.20038
 
 - Shimizu, Y., **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Development of a Japanese version of the Symbolic Ableism Scale (SAS-J). _Japanese Psychological Research, 92_(6), 532-542. https://doi.org/10.4992/jjpsy.92.20208
 
