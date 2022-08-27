@@ -67,6 +67,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (September, 2022).The effect of the amount and balance of social support on subjective well-being of older Japanese adults. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Tokyo.
+
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2022). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Poster presented at the 23rd Annual Meeting of the Society for Personality and Social Psychology. Online.
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (September, 2021). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? Talk presented at the 67th Annual Convention of the Japanese Group Dynamics Association. Online. *Winner of the Excellent Presentation Award
@@ -99,7 +101,7 @@ subtitle = ""
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (November, 2019). Individual differences of willingness to volunteer in a volunteer’s dilemma: The positive and negative effects of justice sensitivity. Talk presented at the 60th Annual Meeting of the Japanese Society of Social Psychology. Tokyo, Japan.
 
-- **Tham, Y. J.**, Murata, K., and Karasawa, K. (September, 2019). Implicit and explicit attitudes toward blood ties. Talk presented at the 36th Annual Meeting of Japanese Cognitive Science Society. Hamamatsu, Japan.
+- **Tham, Y. J.**, Murata, K., and Karasawa, K. (September, 2019). Implicit and explicit attitudes toward blood ties. Talk presented at the 36th Annual Meeting of Japanese Cognitive Science Society. Shizuoka, Japan.
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (July, 2019). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Poster presented at the 13th Biennial Conference of the Asian Association of Social Psychology. Taipei, Taiwan.
 

@@ -67,6 +67,8 @@ subtitle = "学会発表"
  # CSS class.
  css_class = ""
 +++
+- **ターン有加里ジェシカ**・小林江里香・岡本翔平 (2022年9月). ソーシャルサポートの量とバランスが日本人高齢者の主観的ウェルビーイングに与える影響. 日本心理学会 第86回大会 ポスター発表 (1EV-083-PR). 東京.
+
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2022年2月). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Society for Personality and Social Psychology 第23回大会 ポスター発表 (69425). オンライン開催.
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2021年9月). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? 日本グループ・ダイナミックス学会 第67回大会 English Session発表 (E1-1). オンライン開催. *優秀学会発表賞受賞
@@ -99,7 +101,7 @@ subtitle = "学会発表"
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年11月). ボランティアのジレンマにおける公正感受性の正の影響と負の影響 「誰かがやらなければいけない」状況での行動意思の個人差. 日本社会心理学会 第60回大会 口頭発表 (O1801). 東京.
 
-- **ターン有加里ジェシカ**・村田光二・唐沢かおり (2019年9月). 血縁関係に対する潜在的態度と顕在的態度. 日本認知科学会 第36回大会 口頭発表 (OS02-3). 浜松.
+- **ターン有加里ジェシカ**・村田光二・唐沢かおり (2019年9月). 血縁関係に対する潜在的態度と顕在的態度. 日本認知科学会 第36回大会 口頭発表 (OS02-3). 静岡.
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年7月). “Take one for the team!” The positive and negative effects of justice sensitivity in a volunteer’s dilemma in workplace scenarios. Asian Association of Social Psychology 第13回大会 ポスター発表 (Day2 #45). 台湾 台北.
 
