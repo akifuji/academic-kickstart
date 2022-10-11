@@ -28,15 +28,17 @@ date_format = "Jan 2006"
   """
 
 +++
-- University of Tokyo International Research Center for Neurointelligence
+- International Research Center for Neurointelligence, the University of Tokyo 
   - Research project specialist (October 2021 - March 2022)
 - Tokyo Metropolitan Institute of Gerontology
   - Part-time researcher (May 2021 - March 2022)
 - Business Research Lab, Inc.
   - Research fellow (April 2020 - March 2022)
-- Psychology Department of the University of British Columbia 
+- Graduate School of Letters, Kyoto University
+  - Research assistant (February 2020 - September 2020)
+- Department of Psychology, the University of British Columbia 
   - Research assistant (January 2017 - April 2017)
-- Hitotsubashi University Business School (School of International Corporate Strategy)
+- School of International Corporate Strategy, Hitotsubashi University
   - Research assistant (February 2016 - March 2018)
-- Hitotsubashi University Institute of Innovation Research 
+- Institute of Innovation Research, Hitotsubashi University 
   - Research assistant (November 2015 - June 2016)
