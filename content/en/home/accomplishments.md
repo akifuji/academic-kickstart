@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Awards & Grants"
+title = "Awards and Grants"
 subtitle = ""
 
 # Date format
@@ -39,38 +39,42 @@ date_format = "Jan 2006"
 #  Scholarship for Studying Abroad, Awarded by Josuikai (September 2016 - May 2017)
 
 +++
-- Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2022 - March 2024)
+**Awards**
+- **Tham, Y. J.** Ikushi Prize 2021, Japan Society for the Promotion of Science (January 2022)
 
-- Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022)
+- **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. Excellent Presentation Award at the 67th Annual Convention, Japanese Group Dynamics Association (September 2021)
 
-- Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022)
+- Ohashi, M. M., **Tham, Y. J.**, Togo, E., and Iume, Y. Excellent Presentation Award at the 84th Annual Convention, Japanese Psychological Association (September 2020)
 
-- Excellent Presentation Award at the 67th Annual Convention, Awarded by Japanese Group Dynamics Association (September 2021)
+- **Tham, Y. J.** Young Researcher's Scholarship Award 2018, Japanese Society of Social Psychology (December 2018)
 
-- International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021)
+**Grants and scholarships**
+- **Tham, Y. J.** Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (April 2022 - March 2024)
 
-- Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023)
+- **Tham, Y. J.** Graduate Travel Award 2022, Society for Personality and Social Psychology (February 2022)
 
-- Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020)
+- **Tham, Y. J.** International Registration Award 2021, Society for Personality and Social Psychology (February 2021)
 
-- Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Awarded by Foundation for the Fusion of Science and Technology (December 2019)
+- **Tham, Y. J.** Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (April 2020 - March 2023)
 
-- Summer School Research Grant 2019, Awarded by Asian Association of Social Psychology (December 2019)
+- **Tham, Y. J.** Two-year Scholarship for Outstanding Achievement, Japan Student Services Organization (April 2020)
 
-- Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association, Awarded by Japanese Psychological Association Early Career Psychologists Network (September 2019)
+- **Tham, Y. J.** Research Grant for Research on Simulation and Gaming Using Advanced and Creative Methods 2019, Foundation for the Fusion of Science and Technology (December 2019)
 
-- Travel Grant for Summer School 2019, Awarded by Asian Association of Social Psychology (July 2019)
+- **Tham, Y. J.** Summer School Research Grant 2019, Asian Association of Social Psychology (December 2019)
 
-- Travel Grant for International Conferences 2019, Awarded by Japanese Society of Social Psychology (July 2019)
+- **Tham, Y. J.** Travel Grant for the 83rd Annual Meeting of the Japanese Psychological Association, Japanese Psychological Association Early Career Psychologists Network (September 2019)
 
-- Travel Grant for International Conferences 2019, Awarded by Japanese Psychological Association (July 2019)
+- **Tham, Y. J.** Travel Grant for Summer School 2019, Asian Association of Social Psychology (July 2019)
 
-- IAFOR Scholarship 2019, Awarded by International Academic Forum (March 2019)
+- **Tham, Y. J.** Travel Grant for International Conferences 2019, Japanese Society of Social Psychology (July 2019)
 
-- Young Researcher's Scholarship Award 2018, Awarded by Japanese Society of Social Psychology (December 2018)
+- **Tham, Y. J.** Travel Grant for International Conferences 2019, Japanese Psychological Association (July 2019)
 
-- Travel Grant for International Conferences 2018, Awarded by Japanese Group Dynamics Association (October 2018)
+- **Tham, Y. J.** IAFOR Scholarship 2019, International Academic Forum (March 2019)
 
-- Scholarship for Studying Abroad 2016, Awarded by Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+- **Tham, Y. J.** Travel Grant for International Conferences 2018, Japanese Group Dynamics Association (October 2018)
 
-- Scholarship for Studying Abroad 2016, Awarded by Josuikai (September 2016 - May 2017)
+- **Tham, Y. J.** Scholarship for Studying Abroad 2016, Tobitate Young Ambassador Program of the Ministry of Education, Culture, Sports, Science and Technology (September 2016 - June 2017)
+
+- **Tham, Y. J.** Scholarship for Studying Abroad 2016, Josuikai (September 2016 - May 2017)
