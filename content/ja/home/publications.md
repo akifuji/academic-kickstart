@@ -86,9 +86,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 - **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77
 
+
 **その他**
+
 - **ターン 有加里ジェシカ** (2022). 「第12回日本学術振興会育志賞」受賞コメント. 日本社会心理学会会報229号. https://www.socialpsychology.jp/pr/kaiho/kaiho229.pdf
- 
+
 - **ターン 有加里ジェシカ** (2021). 2021年度優秀学会発表賞＜English Session部門＞受賞コメント. 日本グルダイ学会会報60号. http://groupdynamics.gr.jp/documents/bulletin/backnumber/news60.pdf
 
 - **ターン 有加里ジェシカ** (2021). 第62回日本社会心理学会大会参加記. 日本社会心理学会会報228号. https://www.socialpsychology.jp/pr/kaiho/kaiho228.pdf
