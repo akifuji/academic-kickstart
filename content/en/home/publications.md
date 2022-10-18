@@ -85,3 +85,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 - **Tham, Y. J.**, Hashimoto, T., Schmitt, M., & Karasawa, K. (2019). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). _Japanese Psychological Research, 90_(5), 503–512. https://doi.org/10.4992/jjpsy.90.18234
 
 - **Tham, Y. J.**, Murata, K., & Karasawa, K. (2018). Because of the “bad blood”?: Genetic essentialism and associative stigma of an ex-convict’s children. _Journal of Human Environmental Studies, 16_(2), 77–82. https://doi.org/10.4189/shes.16.77
+
