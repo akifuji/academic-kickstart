@@ -40,6 +40,7 @@ date_format = "Jan 2006"
 
 +++
 **Awards**
+
 - **Tham, Y. J.** Ikushi Prize 2021, Japan Society for the Promotion of Science (January 2022)
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. Excellent Presentation Award at the 67th Annual Convention, Japanese Group Dynamics Association (September 2021)
@@ -48,7 +49,9 @@ date_format = "Jan 2006"
 
 - **Tham, Y. J.** Young Researcher's Scholarship Award 2018, Japanese Society of Social Psychology (December 2018)
 
+
 **Grants and scholarships**
+
 - **Tham, Y. J.** Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (April 2022 - March 2024)
 
 - **Tham, Y. J.** Graduate Travel Award 2022, Society for Personality and Social Psychology (February 2022)
