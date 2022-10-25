@@ -40,6 +40,7 @@ date_format = "Jan 2006"
 
 +++
 **Awards**
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. Excellent Presentation Award at the 86th Annual Convention, Japanese Psychological Association (September 2022)
 
 - **Tham, Y. J.** Ikushi Prize 2021, Japan Society for the Promotion of Science (January 2022)
 

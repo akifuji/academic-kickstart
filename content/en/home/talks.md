@@ -67,7 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (September, 2022).The effect of the amount and balance of social support on subjective well-being of older Japanese adults. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Tokyo.
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (September, 2022).The effect of the amount and balance of social support on subjective well-being of older Japanese adults. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Tokyo. *Winner of the Excellent Presentation Award
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2022). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Poster presented at the 23rd Annual Meeting of the Society for Personality and Social Psychology. Online.
 

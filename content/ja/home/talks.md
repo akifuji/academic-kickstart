@@ -67,7 +67,7 @@ subtitle = "学会発表"
  # CSS class.
  css_class = ""
 +++
-- **ターン有加里ジェシカ**・小林江里香・岡本翔平 (2022年9月). ソーシャルサポートの量とバランスが日本人高齢者の主観的ウェルビーイングに与える影響. 日本心理学会 第86回大会 ポスター発表 (1EV-083-PR). 東京.
+- **ターン有加里ジェシカ**・小林江里香・岡本翔平 (2022年9月). ソーシャルサポートの量とバランスが日本人高齢者の主観的ウェルビーイングに与える影響. 日本心理学会 第86回大会 ポスター発表 (1EV-083-PR). 東京. *優秀発表賞受賞
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2022年2月). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Society for Personality and Social Psychology 第23回大会 ポスター発表 (69425). オンライン開催.
 
