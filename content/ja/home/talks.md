@@ -67,9 +67,11 @@ subtitle = "学会発表"
  # CSS class.
  css_class = ""
 +++
+- **ターン有加里ジェシカ**・大坪庸介・唐沢かおり (2023年2月). Getting rid of anonymity increases efficient provision of a public good in a volunteer’s dilemma. Society for Personality and Social Psychology 2023年大会 Web発表 (Research Spotlight). アメリカ合衆国 アトランタ.
+
 - **ターン有加里ジェシカ**・小林江里香・岡本翔平 (2022年9月). ソーシャルサポートの量とバランスが日本人高齢者の主観的ウェルビーイングに与える影響. 日本心理学会 第86回大会 ポスター発表 (1EV-083-PR). 東京. *優秀発表賞受賞
 
-- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2022年2月). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Society for Personality and Social Psychology 第23回大会 ポスター発表 (69425). オンライン開催.
+- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2022年2月). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Society for Personality and Social Psychology 2022年大会 ポスター発表 (69425). オンライン開催.
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2021年9月). How much should and does the “strongest” member incur a cost for the group in an asymmetric volunteer’s dilemma? 日本グループ・ダイナミックス学会 第67回大会 English Session発表 (E1-1). オンライン開催. *優秀学会発表賞受賞
 
@@ -81,7 +83,7 @@ subtitle = "学会発表"
 
 - **ターン有加里ジェシカ** (2021年3月). ボランティアのジレンマゲームにおけるコスト分担の理想と実際. Society for Tokyo Young Psychologists 第11回大会 ポスター発表 (011-26). オンライン開催.
 
-- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2021年2月). Who incurs a cost for their group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Society for Personality and Social Psychology 第22回大会 ポスター発表 (55046). オンライン開催.
+- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2021年2月). Who incurs a cost for their group and when? The effect of justice sensitivity and previous interactions with other members on people’s behavior in a volunteer’s dilemma. Society for Personality and Social Psychology 2021年大会 ポスター発表 (55046). オンライン開催.
 
 - **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2020年12月). スキルを必要としない協力行動は女性が行う傾向にあるのか？コストリー・シグナリング理論に基づいた検討. 日本人間行動進化学会 第13回大会 個別研究発表 (P-23). オンライン開催.
 
@@ -95,7 +97,7 @@ subtitle = "学会発表"
 
 - 大橋恵・**ターン有加里ジェシカ**・藤後悦子・井梅由美子 (2020年9月). 母親が小学生の地域スポーツにおけるチームサポートを継続する要因. 日本心理学会 第84回大会 ポスター発表 (PC-030). オンライン開催. *優秀発表賞受賞
 
-- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2020年2月). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Society for Personality and Social Psychology 第21回大会 ポスター発表 (F-143). アメリカ合衆国 ニューオーリンズ.
+- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2020年2月). How people evaluate volunteers and shirkers in the volunteer’s dilemma? The effect of perceived cost of volunteering. Society for Personality and Social Psychology 2020年大会 ポスター発表 (F-143). アメリカ合衆国 ニューオーリンズ.
 
 - **ターン有加里ジェシカ** (2019年11月). Rejecting an unfair offer allows you to gain self/other-focused material/social rewards: An integrative framework of motivation for rejecting unfair offers in ultimatum games. 第23回実験社会科学カンファレンス ポスター発表 (P8). 東京.
 
@@ -109,6 +111,6 @@ subtitle = "学会発表"
 
 - **ターン有加里ジェシカ**・橋本剛明・Manfred Schmitt・唐沢かおり (2019年3月). Development of a Japanese version of the Justice Sensitivity Inventory (JSI-J). International Academic Forum 第9回 Asian Conference on Psychology and the Behavioral Sciences ポスター発表 (45464). 東京.
 
-- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-consciousness. Society for Personality and Social Psychology 第20回大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
+- **ターン有加里ジェシカ**・橋本剛明・唐沢かおり (2019年2月). Egoistic motives of concerning injustice for others: Justice sensitivity and self-consciousness. Society for Personality and Social Psychology 2019年大会 ポスター発表 (A-142). アメリカ合衆国 ポートランド.
 
 - **ターン有加里ジェシカ**・村田光二・唐沢かおり(2018年8月). 犯罪者の子どもと連合的スティグマ―遺伝的本質主義の観点から―. 日本社会心理学会 第59回大会 ポスター発表 (P11-28). 大阪.

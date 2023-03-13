@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "論文"
+subtitle = "論文・書籍"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,24 +68,29 @@ subtitle = "論文"
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
-- 大橋 恵・**ターン 有加里ジェシカ**・藤後 悦子・井梅 由美子 (2022). 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――. 心理学研究, _93_(1), 10-20. https://doi.org/10.4992/jjpsy.93.20038.
+**論文**
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology, 25_,117-125. https://doi.org/10.1111/ajsp.12472
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (Dec 2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
+- 大橋 恵・**ターン 有加里ジェシカ**・藤後 悦子・井梅 由美子 (Apr 2022). 地域スポーツでの母親のボランティア継続意図――ハラスメントと公正感受性の影響――. 心理学研究, _93_(1), 10-20. https://doi.org/10.4992/jjpsy.93.20038.
 
-- 清水 佑輔・**ターン 有加里ジェシカ**・橋本 剛明・唐沢 かおり (2022). 象徴的障害者偏見尺度日本語版 (SAS-J) の作成. 心理学研究, _92_(6), 532-542. https://doi.org/10.4992/jjpsy.92.20208
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (Mar 2022). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology, 25_,117-125. https://doi.org/10.1111/ajsp.12472
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation_. https://doi.org/10.1007/s11116-021-10225-0
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (Feb 2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
+- 清水 佑輔・**ターン 有加里ジェシカ**・橋本 剛明・唐沢 かおり (Feb 2022). 象徴的障害者偏見尺度日本語版 (SAS-J) の作成. 心理学研究, _92_(6), 532-542. https://doi.org/10.4992/jjpsy.92.20208
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2019). The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma. _Personality and Individual Differences, 151_, 109501. https://doi.org/10.1016/j.paid.2019.07.011
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (Mar 2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
 
-- **ターン 有加里ジェシカ**・橋本 剛明・シュミット マンフレッド・唐沢 かおり (2019). 公正感受性尺度日本語版 (JSI-J) の作成. 心理学研究, _90_(5), 503–512. https://doi.org/10.4992/jjpsy.90.18234
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (Dec 2019). The positive and negative effects of justice sensitivity and justice-related emotions in the volunteer’s dilemma. _Personality and Individual Differences, 151_, 109501. https://doi.org/10.1016/j.paid.2019.07.011
 
-- **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77
+- **ターン 有加里ジェシカ**・橋本 剛明・シュミット マンフレッド・唐沢 かおり (Dec 2019). 公正感受性尺度日本語版 (JSI-J) の作成. 心理学研究, _90_(5), 503–512. https://doi.org/10.4992/jjpsy.90.18234
 
+- **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (Dec 2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77
+
+**翻訳**
+
+- **ターン 有加里ジェシカ** (Jan 2023). 「第1章 「隠れた行為者」は至るところに」「第2章 目的を探す子どもたち」松島公望 (監訳), 矢吹理恵・荒川 歩 (編訳)『なぜ子どもは神を信じるのか?: 人間の宗教性の心理学的研究』教文館. (Barrett, J., L. (2012). _Born Believers: The Science of Children's Religious Belief_. Atria Books.)
 
 **その他**
 

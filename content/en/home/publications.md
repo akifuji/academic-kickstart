@@ -76,7 +76,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 - Shimizu, Y., **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Development of a Japanese version of the Symbolic Ableism Scale (SAS-J). _Japanese Psychological Research, 92_(6), 532-542. https://doi.org/10.4992/jjpsy.92.20208
 
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation_. https://doi.org/10.1007/s11116-021-10225-0
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0
 
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
 
