@@ -68,6 +68,8 @@ subtitle = ""
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
+- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0
+
 - Ohashi, M. M., **Tham, Y. J.**, Togo, T., & Iume, Y. (2022). Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment. _Japanese Psychological Research, 93_(1), 10-20. https://doi.org/10.4992/jjpsy.93.20038
 
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Social rewards in the volunteer’s dilemma in everyday life. _Asian Journal of Social Psychology, 25_,117-125. https://doi.org/10.1111/ajsp.12472
@@ -75,8 +77,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Who incurs a cost for their group and when? The effects of dispositional and situational factors regarding equality in the volunteer’s dilemma. _Personality and Individual Differences, 185_, 111236. https://doi.org/10.1016/j.paid.2021.111236
 
 - Shimizu, Y., **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Development of a Japanese version of the Symbolic Ableism Scale (SAS-J). _Japanese Psychological Research, 92_(6), 532-542. https://doi.org/10.4992/jjpsy.92.20208
-
-- **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0
 
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2021). The effect of impression formation on rejection in the ultimatum game. _Letters on Evolutionary Behavioral Science, 12_(1), 12–17. https://doi.org/10.5178/lebs.2021.83
 
