@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Awards and Grants"
-  url = "#accomplishments"
+  name = "Conference Presentations"
+  url = "#talks"
   weight = 30
 
 [[main]]
-  name = "Conference Presentations"
-  url = "#talks"
+  name = "Awards and Grants"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]
