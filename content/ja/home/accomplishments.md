@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Awards and Grants"
-subtitle = "賞および助成"
+subtitle = "賞・助成"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
