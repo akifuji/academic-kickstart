@@ -67,9 +67,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **Tham, Y. J.**, Ohtsubo, Y., Hashimoto, T., and Karasawa, K. (September, 2023). How people share burdens when their ability varies in a volunteer's dilemma. Talk presented at the 69th Annual Convention of the Japanese Group Dynamics Association. Kochi.
+
+- **Tham, Y. J.**, Ohtsubo, Y., and Karasawa, K. (September, 2023). Who in a group takes on a task that must be done and when? Computational modeling of decision making in a volunteer’s dilemma. Poster presented at the 87th Annual Convention of the Japanese Psychological Association. Hyogo.
+
 - **Tham, Y. J.**, Ohtsubo, Y., and Karasawa, K. (February, 2023). Getting rid of anonymity increases efficient provision of a public good in a volunteer’s dilemma. Research Spotlight presented at the Society for Personality and Social Psychology Annual Convention. Atlanta, GA, USA.
 
-- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (September, 2022).The effect of the amount and balance of social support on subjective well-being of older Japanese adults. Poster presented at the 85th Annual Convention of the Japanese Psychological Association. Tokyo. *Winner of the Excellent Presentation Award
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (September, 2022).The effect of the amount and balance of social support on subjective well-being of older Japanese adults. Poster presented at the 86th Annual Convention of the Japanese Psychological Association. Tokyo. *Winner of the Excellent Presentation Award
 
 - **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2022). Why do people prefer net-benefit equality but cannot achieve it in the asymmetric volunteer’s dilemma? Poster presented at the Society for Personality and Social Psychology Annual Convention. Virtual.
 
