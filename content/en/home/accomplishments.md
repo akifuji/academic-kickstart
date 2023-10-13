@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Amount
+#  Sumisei Award for Women in Humanities and Social Sciences, Sumitomo Life Insurance Company (February 2023): 2,000,000JPY
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2022 - March 2024): 2,300,000JPY
 #  Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022): 55USD
 #  Ikushi Prize 2021, Awarded by Japan Society for the Promotion of Science (January 2022): 1,100,000JPY
-#  Excellent Presentation Award 2021, Awarded by Japanese Group Dynamics Association (September 2021): 0JPY
 #  International Registration Award 2021, Awarded by Society for Personality and Social Psychology (February 2021): 50USD
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2020 - March 2023): 3,400,000JPY
 #  Two-year Scholarship for Outstanding Achievement, Awarded by Japan Student Services Organization (April 2020): 1,200,000JPY
@@ -40,6 +40,8 @@ date_format = "Jan 2006"
 
 +++
 **Awards**
+
+- **Tham, Y. J.**, Ohtsubo, Y., Hashimoto, T., and Karasawa, K. Excellent Presentation Award at the 69th Annual Convention, Japanese Group Dynamics Association (October 2023)
 
 - **Tham, Y. J.** Sumisei Award for Women in Humanities and Social Sciences, Sumitomo Life Insurance Company (February 2023)
 
