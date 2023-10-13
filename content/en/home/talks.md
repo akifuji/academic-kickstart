@@ -67,6 +67,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **Tham, Y. J.**, Hashimoto, T., and Karasawa, K. (February, 2024). Do people perceive paternalistic rules as more effective for others than for themselves? Research Spotlight presented at the Society for Personality and Social Psychology Annual Convention. San Diego, CA, USA.
+
 - **Tham, Y. J.**, Ohtsubo, Y., Hashimoto, T., and Karasawa, K. (September, 2023). How people share burdens when their ability varies in a volunteer's dilemma. Talk presented at the 69th Annual Convention of the Japanese Group Dynamics Association. Kochi.
 
 - **Tham, Y. J.**, Ohtsubo, Y., and Karasawa, K. (September, 2023). Who in a group takes on a task that must be done and when? Computational modeling of decision making in a volunteer’s dilemma. Poster presented at the 87th Annual Convention of the Japanese Psychological Association. Hyogo.

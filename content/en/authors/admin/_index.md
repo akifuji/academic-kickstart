@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yukari Jessica Tham
+name: Yukari Jessica THAM
 
 # Username (this should match the folder name)
 authors:
@@ -14,13 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: PhD Candidate in Social Psychology at the Graduate School of Humanities and Sociology at the University of Tokyo.
-  url: "http://www.utokyo-socpsy.com/index-e.html"
-- name: Research fellow of the Japan Society for the Promotion of Science.
-  url: "https://www.jsps.go.jp/english/e-pd/index.html"
+- name: Assistant Professor at Kobe University
+  url: "http://www.lit.kobe-u.ac.jp/english/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social dilemmas (especially the volunteer's dilemma) and a sense of fairness.
+bio: 
 
 interests:
 - Fairness
@@ -42,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tham09@l.u-tokyo.ac.jp'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tham.yukarijessica@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: play
   icon_pack: fas
   link: https://researchmap.jp/tham/?lang=english
@@ -65,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a PhD candidate majoring in social psychology at the University of Tokyo. I have mainly studied the effect of a sense of fairness on prosocial/proself behavior in social dilemmas. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.
+I am an assistant professor at Kobe University. My research examines topics relating to distributive justice and cooperation. In my free time, I enjoy drawing pictures and watching a documentary on wild animals.

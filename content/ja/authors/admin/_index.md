@@ -14,23 +14,21 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 東京大学大学院 人文社会系研究科 社会心理学研究室(唐沢かおり研究室) 博士後期課程
-  url: "http://www-socpsy.l.u-tokyo.ac.jp/karasawa/"
-- name: 日本学術振興会 特別研究員
-  url: "https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf"
+- name: 神戸大学大学院人文学研究科 助教
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 公平感
-- 協力行動
+- 公平
+- 協力
 
 education:
   courses:
   - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 博士後期課程
     institution: 
-    year: 2020年4月 - 現在
+    year: 2020年4月 - 2023年9月
   - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 修士課程
     institution: 
     year: 2018年4月 - 2020年3月
@@ -75,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-公平感が日常においてどのような役割を果たしているのかに関心があります。特に「ボランティアのジレンマ」(誰か1人がボランティアのコストを負担すれば集団全体が利益を受けるが、誰も負担しなければ集団全体が損失を被る状況) における公平感の役割を、実験などを通して検討しています。趣味は絵を描くことと地球ドラマチックを観ること。
+社会的場面における人々の行動に関心があります。特に、人々が集団内で資源や負担を分け合うとき、どのような分け方を公平だと見なし、実際にはどのように分けるのかについて、実験等を通じて検討しています。
