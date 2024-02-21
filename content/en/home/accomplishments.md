@@ -42,6 +42,7 @@ date_format = "Jan 2006"
 
 +++
 **Awards**
+
 - **Tham, Y. J.**, Ohtsubo, Y., and Karasawa, K.  Excellent Presentation Award at the 87th Annual Convention, Japanese Psychological Association (September 2023)
 
 - **Tham, Y. J.**, Ohtsubo, Y., Hashimoto, T., and Karasawa, K. Excellent Presentation Award at the 69th Annual Convention, Japanese Group Dynamics Association (October 2023)
@@ -60,6 +61,7 @@ date_format = "Jan 2006"
 
 
 **Grants and scholarships**
+
 - **Tham, Y. J.** Research Grant for Social Science 2024, Nomura Foundation (April 2024 - March 2026)
 
 - **Tham, Y. J.** Research Grant for Research on Simulation and Gaming 2023, Foundation for the Fusion of Science and Technology (February 2024 - March 2026)

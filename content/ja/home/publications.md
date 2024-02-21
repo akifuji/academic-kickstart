@@ -90,9 +90,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 - **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77<!-- 12月 -->
 
+
 **翻訳**
 
 - **ターン 有加里ジェシカ** (2023). 「第1章 「隠れた行為者」は至るところに」「第2章 目的を探す子どもたち」松島公望 (監訳), 矢吹理恵・荒川 歩 (編訳)『なぜ子どもは神を信じるのか?: 人間の宗教性の心理学的研究』教文館. (Barrett, J., L. (2012). _Born Believers: The Science of Children's Religious Belief_. Atria Books.)<!-- 1月 -->
+
 
 **その他**
 
