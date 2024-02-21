@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in social psychology
+    institution: The University of Tokyo
+    year: 2024
   - course: Master's degree in social psychology
     institution: The University of Tokyo
     year: 2020

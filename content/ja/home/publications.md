@@ -69,6 +69,7 @@ subtitle = "論文・書籍"
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 **論文**
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (in press). The importance of examining both the amount and balance of social support: A study on the relationship between social support and subjective well-being of older Japanese adults. _Journal of Community & Applied Social Psychology_.
 
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0<!-- 12月 -->
 
@@ -89,15 +90,15 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 - **ターン 有加里ジェシカ**・村田 光二・唐沢 かおり (2018). 犯罪者の子どもと連合的スティグマ ――遺伝的本質主義 の観点から――. 人間環境学研究, _16_(2), 77–82. https://doi.org/10.4189/shes.16.77<!-- 12月 -->
 
 **翻訳**
-
 - **ターン 有加里ジェシカ** (2023). 「第1章 「隠れた行為者」は至るところに」「第2章 目的を探す子どもたち」松島公望 (監訳), 矢吹理恵・荒川 歩 (編訳)『なぜ子どもは神を信じるのか?: 人間の宗教性の心理学的研究』教文館. (Barrett, J., L. (2012). _Born Believers: The Science of Children's Religious Belief_. Atria Books.)<!-- 1月 -->
 
 **その他**
+- **ターン 有加里ジェシカ** (2024). 2023年度優秀学会発表賞＜ロング・スピーチ部門＞受賞コメント. 日本グルダイ学会会報64号. https://www.groupdynamics.gr.jp/documents/bulletin/backnumber/news64.pdf
 
-- **ターン 有加里ジェシカ** (2022). 「第12回日本学術振興会育志賞」受賞コメント. 日本社会心理学会会報229号. https://www.socialpsychology.jp/pr/kaiho/kaiho229.pdf
+- **ターン 有加里ジェシカ** (2022). 「第12回日本学術振興会育志賞」受賞コメント. 日本社会心理学会会報229号. https://www.socialpsychology.jp/wp-content/uploads/kaiho229.pdf
 
 - **ターン 有加里ジェシカ** (2021). 2021年度優秀学会発表賞＜English Session部門＞受賞コメント. 日本グルダイ学会会報60号. http://groupdynamics.gr.jp/documents/bulletin/backnumber/news60.pdf
 
-- **ターン 有加里ジェシカ** (2021). 第62回日本社会心理学会大会参加記. 日本社会心理学会会報228号. https://www.socialpsychology.jp/pr/kaiho/kaiho228.pdf
+- **ターン 有加里ジェシカ** (2021). 第62回日本社会心理学会大会参加記. 日本社会心理学会会報228号. https://www.socialpsychology.jp/wp-content/uploads/kaiho228.pdf
 
-- **ターン 有加里ジェシカ** (2020). Society for Personality and Social Psychology (SPSP) 2020年大会＠ニューオーリンズ 参加記. 日本社会心理学会会報222号. https://www.socialpsychology.jp/pr/kaiho/kaiho222.pdf
+- **ターン 有加里ジェシカ** (2020). Society for Personality and Social Psychology (SPSP) 2020年大会＠ニューオーリンズ 参加記. 日本社会心理学会会報222号. https://www.socialpsychology.jp/wp-content/uploads/kaiho222.pdf

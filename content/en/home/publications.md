@@ -68,6 +68,8 @@ subtitle = ""
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
+- **Tham, Y. J.**, Kobayashi, E., and Okamoto, S. (in press). The importance of examining both the amount and balance of social support: A study on the relationship between social support and subjective well-being of older Japanese adults. _Journal of Community & Applied Social Psychology_.
+
 - **Tham, Y. J.**, Hashimoto, T., & Karasawa, K. (2022). Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles. _Transportation, 49_(6), 1715-1736. https://doi.org/10.1007/s11116-021-10225-0
 
 - Ohashi, M. M., **Tham, Y. J.**, Togo, T., & Iume, Y. (2022). Mothers’ motivation for volunteering in their children’s community-based sports clubs: The effects of justice sensitivity and harassment. _Japanese Psychological Research, 93_(1), 10-20. https://doi.org/10.4992/jjpsy.93.20038

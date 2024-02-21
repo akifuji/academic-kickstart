@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
-  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 博士後期課程
+  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 博士後期課程修了
     institution: 
-    year: 2020年4月 - 2023年9月
-  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 修士課程
+    year: 2024年1月
+  - course: 東京大学大学院 人文社会系研究科(社会文化研究専攻) 修士課程修了
     institution: 
-    year: 2018年4月 - 2020年3月
-  - course: 一橋大学 商学部 経営学科
+    year: 2020年3月
+  - course: 一橋大学 商学部 経営学科 卒業
     institution: 
-    year: 2014年4月 - 2018年3月
+    year: 2018年3月
 
 
 # Social/Academic Networking

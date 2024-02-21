@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Amount
+#  Research Grant for Social Science 2024, Nomura Foundation (April 2024 - March 2026): 700,000JPY
+#  Research Grant for Research on Simulation and Gaming 2023, Foundation for the Fusion of Science and Technology (February 2024 - March 2026): 950,000JPY
 #  Sumisei Award for Women in Humanities and Social Sciences, Sumitomo Life Insurance Company (February 2023): 2,000,000JPY
 #  Grant-in-Aid for JSPS Fellows, Awarded by Japan Society for the Promotion of Science (April 2022 - March 2024): 2,300,000JPY
 #  Graduate Travel Award 2022, Awarded by Society for Personality and Social Psychology (February 2022): 55USD
@@ -40,6 +42,7 @@ date_format = "Jan 2006"
 
 +++
 **Awards**
+- **Tham, Y. J.**, Ohtsubo, Y., and Karasawa, K.  Excellent Presentation Award at the 87th Annual Convention, Japanese Psychological Association (September 2023)
 
 - **Tham, Y. J.**, Ohtsubo, Y., Hashimoto, T., and Karasawa, K. Excellent Presentation Award at the 69th Annual Convention, Japanese Group Dynamics Association (October 2023)
 
@@ -57,6 +60,9 @@ date_format = "Jan 2006"
 
 
 **Grants and scholarships**
+- **Tham, Y. J.** Research Grant for Social Science 2024, Nomura Foundation (April 2024 - March 2026)
+
+- **Tham, Y. J.** Research Grant for Research on Simulation and Gaming 2023, Foundation for the Fusion of Science and Technology (February 2024 - March 2026)
 
 - **Tham, Y. J.** Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (April 2022 - March 2024)
 
