@@ -28,14 +28,15 @@ education:
   courses:
   - course: 東京大学大学院 人文社会系研究科 博士後期課程修了
     institution: 
-    year: 2024年1月
+    year:
   - course: 東京大学大学院 人文社会系研究科 修士課程修了
     institution: 
-    year: 2020年3月
+    year:
   - course: 一橋大学 商学部 経営学科 卒業
     institution: 
-    year: 2018年3月
+    year:
 
+#2018年3月, 2020年3月, 2024年1月
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
